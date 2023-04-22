@@ -1702,10 +1702,10 @@ a8d47fe93b69499adae055fb1b404a5590f83004: $$z$$
 		"currentItemTextAlign": "center",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 953.2642824677412,
-		"scrollY": 493.28705856824286,
+		"scrollX": 713.1835903712156,
+		"scrollY": 401.83700433737334,
 		"zoom": {
-			"value": 1
+			"value": 2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
