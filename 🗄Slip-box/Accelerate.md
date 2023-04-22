@@ -8,7 +8,6 @@ Tags: [[code]]
 
 ## Overview
 - **DDP** support by [Huggingface]([[../STS/Huggingface]])
-- 2
 
 
 ---
