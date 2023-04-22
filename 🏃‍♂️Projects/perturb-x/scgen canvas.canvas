@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e11d1eb6fb760496","x":-1008,"y":-235,"width":451,"height":452,"type":"text","text":"![](https://i.imgur.com/u4YXi3c.png)\n"},
+		{"id":"32fc88d946e88ba5","x":-1501,"y":-235,"width":452,"height":452,"type":"text","text":"![](https://i.imgur.com/451DSIJ.jpg)"},
+		{"id":"6ea89171ead8fe21","x":-516,"y":-235,"width":458,"height":431,"type":"text","text":"![](https://i.imgur.com/VWzF2Wc.png)"},
+		{"id":"48711138a34d1fd0","x":-1530,"y":389,"width":748,"height":282,"type":"text","text":"\n**Discussion**\n\n- Recall that SCGEN's input at inference consists of the (averaged) controlled expression. The perturbation is represented by the mean of the average differential expression corresponding to the perturbation (w.r.t. all other cell types seen in the train).\n- Therefore, the model suffers from the following weakness:\n- if\n- Therefore, we expect the following:\n- Suppose that we evaluate a differentially expressed pair (c,p). If the perturbation p is differentially expressed on many other cell types\n- "}
+	],
+	"edges":[]
+}

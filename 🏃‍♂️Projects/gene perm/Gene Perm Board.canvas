@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"group","id":"0a99dda60c1eddd6","x":-681,"y":306,"width":581,"height":634,"label":"Initial Setting"},
+		{"type":"file","file":"🏃‍♂️Projects/gene perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":88,"y":326,"width":400,"height":400},
+		{"type":"file","file":"🏃‍♂️Projects/gene perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":88,"y":-274,"width":400,"height":400},
+		{"type":"file","file":"🏃‍♂️Projects/gene perm/Gene Perm Agenda.md","id":"6c432ba5916d3cae","x":-660,"y":-220,"width":560,"height":280},
+		{"type":"file","file":"🏃‍♂️Projects/gene perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-660,"y":360,"width":400,"height":234},
+		{"type":"file","file":"🏃‍♂️Projects/gene perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-660,"y":656,"width":400,"height":224}
+	],
+	"edges":[
+		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}
+	]
+}

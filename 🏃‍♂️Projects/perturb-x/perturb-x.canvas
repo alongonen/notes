@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"628de0ed447c364f","x":-1554,"y":-217,"width":413,"height":152,"type":"text","text":"Papers\n\n- [[@Compositional perturbation autoencoder for single-cell response modeling]]\n- "},
+		{"id":"cd3a0323b5444ead","x":-1554,"y":-379,"width":413,"height":122,"type":"text","text":"**Blogs/Tutorials**\n- [Best Practices Theis](https://www.sc-best-practices.org/preamble.html)\n- \n\n\n"},
+		{"id":"8ffb637788e0110c","x":-1554,"y":-819,"width":413,"height":400,"type":"file","file":"🏃‍♂️Projects/perturb-x/Packages for perturb-x.md"},
+		{"id":"5253e6050e759f2a","x":-1574,"y":-839,"width":453,"height":794,"type":"group","label":"resources"},
+		{"id":"cb9df32a0380ff30","x":-830,"y":-220,"width":648,"height":478,"type":"file","file":"🏃‍♂️Projects/perturb-x/Selecting Holdout Properties.md"},
+		{"id":"b7e04f3814258eb3","x":-908,"y":-885,"width":774,"height":567,"type":"text","text":"scgen![[cd4.pdf]]\n\n![[cd14.pdf]]"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,4 @@
+- [AnnData](https://anndata.readthedocs.io/en/latest/)
+- [pertpy](https://pertpy.readthedocs.io/en/latest/tutorials/notebooks/mixscape.html)
+- [scgen](https://github.com/theislab/scgen)
+- 

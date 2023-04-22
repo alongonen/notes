@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"file","file":"🗄Slip-box/DDP on A Single Node.md","id":"07496776d72713f4","x":-411,"y":-97,"width":400,"height":400},
+		{"type":"text","text":"","id":"77d2803b70e84926","x":231,"y":241,"width":250,"height":60},
+		{"type":"text","text":"\tMotivation","id":"6df02dd5d3d5613b","x":40,"y":-157,"width":250,"height":60},
+		{"id":"1d52a8f6f0de4170","x":-110,"y":-341,"width":250,"height":60,"type":"text","text":""},
+		{"id":"3fac7a2c4d401dd0","x":304,"y":-249,"width":250,"height":60,"color":"3","type":"text","text":""},
+		{"id":"2d578c9c4bbef2d7","x":-411,"y":560,"width":400,"height":400,"type":"link","url":"https://twitter.com/akivanovick/status/1634797358092361730"}
+	],
+	"edges":[
+		{"id":"0930e968fd46bcd4","fromNode":"6df02dd5d3d5613b","fromSide":"bottom","toNode":"77d2803b70e84926","toSide":"top"},
+		{"id":"5de054cf3101dc3a","fromNode":"6df02dd5d3d5613b","fromSide":"top","toNode":"1d52a8f6f0de4170","toSide":"bottom"}
+	]
+}

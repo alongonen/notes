@@ -1,0 +1,3 @@
+
+
+![[Transposed Conv.pdf]]
