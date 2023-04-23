@@ -9,5 +9,6 @@
       `use_ext_attributes`
       `num_celltypes` (deleted)
       `num_perturbations` (deleted)
+      various experiments in experiments folder
  - [ ] Tutorial on `poetry` #someday
  - [ ] 
