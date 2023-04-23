@@ -8,7 +8,7 @@ Tags: [[code]]
 
 ## Overview
 - **DDP** support by [Huggingface]([[../STS/Huggingface]])
-
+- from mac
 
 ---
 
