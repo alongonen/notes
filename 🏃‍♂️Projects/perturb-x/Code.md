@@ -6,4 +6,5 @@
       `ae_tr_model_sets.predict_sets`
       `matching_penalty==adv` 
       `config_l1000`
- 
+ - [ ] Tutorial on `poetry` #someday
+ - [ ] 
