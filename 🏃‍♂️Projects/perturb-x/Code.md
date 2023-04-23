@@ -7,5 +7,7 @@
       `matching_penalty==adv` 
       `config_l1000`
       `use_ext_attributes`
+      `num_celltypes` (deleted)
+      `num_perturbations` (deleted)
  - [ ] Tutorial on `poetry` #someday
  - [ ] 
