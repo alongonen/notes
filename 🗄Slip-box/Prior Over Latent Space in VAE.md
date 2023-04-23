@@ -1,5 +1,5 @@
 
-
+ 
 
 > [!question] Prior in VAE
 > VAE: In which cases should we enforce normal distribution?
