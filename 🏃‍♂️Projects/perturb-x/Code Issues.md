@@ -10,6 +10,4 @@
       `num_celltypes` (deleted)
       `num_perturbations` (deleted)
       various experiments in experiments folder
-- [ ] `holdout_dataloader` is not consistent with ``
- - [ ] Tutorial on `poetry` #someday
- - [ ] 
+- [ ] `holdout_dataloader` is not consistent with `LightningDataModule`
