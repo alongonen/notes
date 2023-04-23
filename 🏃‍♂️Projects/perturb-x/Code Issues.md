@@ -1,6 +1,6 @@
 
 
-- [ ] keep or delete #next 
+- [ ] keep or delete 🔼
       learning curve callback 
       hooks such as `training_epoch_end`
       `ae_tr_model_sets.predict_sets`
@@ -10,4 +10,5 @@
       `num_celltypes` (deleted)
       `num_perturbations` (deleted)
       various experiments in experiments folder
-- [ ] `holdout_dataloader` is not consistent with `LightningDataModule`
+- [ ] `holdout_dataloader` is not consistent with `LightningDataModule` 🔼 
+- [ןwhy do we duplicate 
