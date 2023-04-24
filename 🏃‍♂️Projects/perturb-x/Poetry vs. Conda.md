@@ -1,2 +1,2 @@
 
-- [ ] short tutorial + comparision to Conda #someday
+- [ ] short tutorial + comparision to Conda  🔽 

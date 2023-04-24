@@ -8,12 +8,3 @@
 
 
 
-## Latent Space Prior
-
-- 
-
-
-
-
-
-1. In Tehis 

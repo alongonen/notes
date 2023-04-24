@@ -19,3 +19,6 @@
 
 
 
+## Trainer
+- [ ] progress bar
+- [ ] support DDP with multiple GPUs

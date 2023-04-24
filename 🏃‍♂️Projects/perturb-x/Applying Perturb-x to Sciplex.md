@@ -1,0 +1,2 @@
+- [ ] computational performance: slow due to number of perturbations of just the data size? 🔼 running on multiple GPUs can help ..
+- [ ] 
