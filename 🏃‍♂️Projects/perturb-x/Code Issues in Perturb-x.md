@@ -18,7 +18,11 @@
 - [x] `num_perturbations=3` in `experiment3`  ✅ 2023-04-24
 
 
+## Model
+- [ ] ensure  DDP support with multiple GPUs
+- [ ] predict step
+- [ ] save the trained model's prediction on hold-out set (using `on_training_end`)
+
 
 ## Trainer
 - [ ] progress bar
-- [ ] support DDP with multiple GPUs
