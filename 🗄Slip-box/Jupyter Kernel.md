@@ -1,7 +1,12 @@
 
+
 ## Context
 - [[Poetry with Jupyter]]
 
+## Install with Poetry
+```shell
+poetry run python -m ipykernel install --user --name {NAME}
+```
 ## Viewing and Editing the Kernel
 
 You can use the `kernelspec` command to get information about the installed Kernels for your installation.
