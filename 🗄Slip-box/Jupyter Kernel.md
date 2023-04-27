@@ -1,6 +1,7 @@
 
 ## Context
 - [[Poetry with Jupyter]]
+
 ## Viewing and Editing the Kernel
 
 You can use the `kernelspec` command to get information about the installed Kernels for your installation.
