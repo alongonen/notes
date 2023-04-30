@@ -1,0 +1,4 @@
+- Second brain is overrated, at least in scientific areas.
+- We recall similar problems naturally and don't need graph view or hyper-links to similar notes.
+- Also, if we forget, say, some mathematical development, we will probably want to re-develop it rather than read it in case we need it in the future.
+- More relevant: store problems and ideas (like Feynman)

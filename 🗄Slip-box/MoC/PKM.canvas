@@ -1,20 +1,21 @@
 {
 	"nodes":[
-		{"type":"group","id":"23aa0977b6f596df","x":-771,"y":100,"width":643,"height":280,"label":"Main Considerations"},
+		{"type":"group","id":"23aa0977b6f596df","x":-771,"y":100,"width":643,"height":420,"label":"Main Considerations"},
 		{"type":"group","id":"a66f01fc2db8ecd4","x":-771,"y":-380,"width":663,"height":240,"label":"Why?"},
 		{"type":"group","id":"a6ce1aaafd42778f","x":20,"y":-380,"width":340,"height":240,"label":"Why Not?"},
+		{"id":"b611c9015f2f73da","x":-750,"y":380,"width":250,"height":60,"type":"file","file":"🗄Slip-box/What Should Be in A Note?.md"},
+		{"type":"file","file":"🗄Slip-box/Second Brain is Overrated.md","id":"a1614c5240325922","x":40,"y":-260,"width":300,"height":100},
 		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-750,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"reliance on handwritten notes","id":"7c101c40700802bb","x":-422,"y":120,"width":212,"height":80},
 		{"type":"text","text":"Distracting and requires maintenence","id":"ac25ab09091439bc","x":40,"y":-360,"width":250,"height":60},
-		{"type":"text","text":"second brain is overrated. \nonly store problems and ideas","id":"3965bec6153b8c11","x":40,"y":-260,"width":300,"height":100},
 		{"type":"text","text":"connect ideas","id":"c892b68f9dba5579","x":-750,"y":-260,"width":250,"height":60},
 		{"type":"text","text":"tool for thinking","id":"8539e1b7d349c545","x":-450,"y":-260,"width":250,"height":60},
 		{"type":"text","text":"","id":"aeed583ae9d7f4be","x":-460,"y":-261,"width":250,"height":60},
 		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-450,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"reliance on plugins & intergrations","id":"3eb4669989847dde","x":-750,"y":220,"width":220,"height":80},
 		{"type":"text","text":"one tool vs. specialized tools","id":"c01d146fd659c10e","x":-750,"y":120,"width":220,"height":80},
-		{"type":"text","text":"- iOS sync\n- esthetic\n- latex and markdown \n- OCR\n","id":"cc23f8f7668eeb9f","x":-33,"y":103,"width":453,"height":237},
-		{"type":"file","file":"🗄Slip-box/MoC/Structure of PKM.md","id":"256cbe3082e06d9f","x":-422,"y":252,"width":222,"height":50}
+		{"type":"text","text":"## Features\n- iOS sync\n- esthetic\n- latex and markdown \n- OCR\n","id":"cc23f8f7668eeb9f","x":-33,"y":103,"width":453,"height":237},
+		{"type":"file","file":"🗄Slip-box/Structure of PKM.md","id":"256cbe3082e06d9f","x":-422,"y":252,"width":222,"height":50}
 	],
 	"edges":[
 		{"id":"df705377a6ae1134","fromNode":"7c101c40700802bb","fromSide":"top","toNode":"8539e1b7d349c545","toSide":"right","color":"4"}
