@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"23aa0977b6f596df","x":-771,"y":100,"width":643,"height":280,"label":"Main Considerations"},
-		{"type":"group","id":"a66f01fc2db8ecd4","x":-771,"y":-380,"width":663,"height":220,"label":"Why?"},
+		{"type":"group","id":"a66f01fc2db8ecd4","x":-771,"y":-380,"width":663,"height":240,"label":"Why?"},
 		{"type":"group","id":"a6ce1aaafd42778f","x":20,"y":-380,"width":340,"height":240,"label":"Why Not?"},
 		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-750,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"reliance on handwritten notes","id":"7c101c40700802bb","x":-422,"y":120,"width":212,"height":80},
@@ -13,8 +13,8 @@
 		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-450,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"reliance on plugins & intergrations","id":"3eb4669989847dde","x":-750,"y":220,"width":220,"height":80},
 		{"type":"text","text":"one tool vs. specialized tools","id":"c01d146fd659c10e","x":-750,"y":120,"width":220,"height":80},
-		{"type":"text","text":"- iOS sync\n- esthetic\n- latex and markdown \n- OCR\n","id":"cc23f8f7668eeb9f","x":-33,"y":103,"width":223,"height":297},
-		{"type":"file","file":"🗄Slip-box/MoC/Structure of PKM.md","id":"256cbe3082e06d9f","x":-422,"y":252,"width":222,"height":120}
+		{"type":"text","text":"- iOS sync\n- esthetic\n- latex and markdown \n- OCR\n","id":"cc23f8f7668eeb9f","x":-33,"y":103,"width":453,"height":237},
+		{"type":"file","file":"🗄Slip-box/MoC/Structure of PKM.md","id":"256cbe3082e06d9f","x":-422,"y":252,"width":222,"height":50}
 	],
 	"edges":[
 		{"id":"df705377a6ae1134","fromNode":"7c101c40700802bb","fromSide":"top","toNode":"8539e1b7d349c545","toSide":"right","color":"4"}
