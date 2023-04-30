@@ -1,18 +1,21 @@
 {
 	"nodes":[
-		{"type":"text","text":"Motivations","id":"08428ef2b9b1b237","x":-640,"y":-200,"width":160,"height":69},
-		{"type":"text","text":"connect ideas","id":"c892b68f9dba5579","x":-380,"y":-131,"width":250,"height":60},
-		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-380,"y":-40,"width":250,"height":60},
-		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-380,"y":-320,"width":250,"height":60},
-		{"id":"8539e1b7d349c545","x":-378,"y":-251,"width":250,"height":60,"type":"text","text":"tool for thinking"},
-		{"id":"2b44e0e8bdd97d18","x":-751,"y":113,"width":191,"height":60,"type":"text","text":"considerations"},
-		{"id":"c01d146fd659c10e","x":-497,"y":60,"width":242,"height":83,"type":"text","text":"one tool vs. specialized tools compromised utilities"}
+		{"id":"a66f01fc2db8ecd4","x":-771,"y":-380,"width":663,"height":220,"type":"group","label":"Why?"},
+		{"id":"23aa0977b6f596df","x":-771,"y":100,"width":643,"height":200,"type":"group","label":"Main Considerations"},
+		{"id":"a6ce1aaafd42778f","x":20,"y":-380,"width":340,"height":240,"type":"group","label":"Why Not?"},
+		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-750,"y":-360,"width":250,"height":60},
+		{"id":"7c101c40700802bb","x":-422,"y":120,"width":212,"height":80,"type":"text","text":"reliance on handwritten notes"},
+		{"id":"3eb4669989847dde","x":-750,"y":220,"width":220,"height":60,"type":"text","text":"reliance on plugins & intergrations"},
+		{"id":"ac25ab09091439bc","x":40,"y":-360,"width":250,"height":60,"type":"text","text":"Distracting and requires maintenence"},
+		{"id":"3965bec6153b8c11","x":40,"y":-260,"width":300,"height":100,"type":"text","text":"second brain is overrated. \nonly store problems and ideas"},
+		{"type":"text","text":"connect ideas","id":"c892b68f9dba5579","x":-750,"y":-260,"width":250,"height":60},
+		{"id":"8539e1b7d349c545","x":-450,"y":-260,"width":250,"height":60,"type":"text","text":"tool for thinking"},
+		{"id":"aeed583ae9d7f4be","x":-460,"y":-261,"width":250,"height":60,"type":"text","text":""},
+		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-450,"y":-360,"width":250,"height":60},
+		{"id":"c01d146fd659c10e","x":-750,"y":120,"width":220,"height":80,"type":"text","text":"one tool vs. specialized tools"},
+		{"id":"cc23f8f7668eeb9f","x":-33,"y":103,"width":250,"height":117,"type":"text","text":"- iOS sync\n- esthetic\n- "}
 	],
 	"edges":[
-		{"id":"c4c4b4a916c4d8f3","fromNode":"08428ef2b9b1b237","fromSide":"top","toNode":"f561ecfb64e07cfe","toSide":"left"},
-		{"id":"3083d90b0c070ce1","fromNode":"08428ef2b9b1b237","fromSide":"bottom","toNode":"1382a28748b9823a","toSide":"left"},
-		{"id":"270c56f027520219","fromNode":"08428ef2b9b1b237","fromSide":"right","toNode":"c892b68f9dba5579","toSide":"left"},
-		{"id":"5cca3a7be350f9e0","fromNode":"08428ef2b9b1b237","fromSide":"right","toNode":"8539e1b7d349c545","toSide":"left"},
-		{"id":"2627870bd220b334","fromNode":"2b44e0e8bdd97d18","fromSide":"right","toNode":"c01d146fd659c10e","toSide":"left"}
+		{"id":"df705377a6ae1134","fromNode":"7c101c40700802bb","fromSide":"top","toNode":"8539e1b7d349c545","toSide":"right","color":"4"}
 	]
 }
