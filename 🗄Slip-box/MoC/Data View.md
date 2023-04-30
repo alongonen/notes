@@ -6,7 +6,7 @@ const pages = dv.pages()
 
 // This regex will find the contents of a specifically formatted callout
 // const regex = 
-const regex = />\s\[\!Question\]\s(.+?)((\n>\s.*?)*)\n/
+const regex = />\s\[\!question\]\s(.+?)((\n>\s.*?)*)\n/
 
 const rows = []
 for (const page of pages) {
@@ -16,14 +16,10 @@ for (const page of pages) {
     // Extract the summary via regex
     for (const callout of contents.match(new RegExp(regex, 'sg')) || []) {
         const match = callout.match(new RegExp(regex, 's')) 
-        rows.push([match[2], match[1], match[3], page.file.link])
-    }
-}
-
-dv.table(['Title', 'Type', 'Bullets', 'Link'], rows)
+        rows.push([match[1], page.file.link]) 
+        } 
+    } 
+dv.table(['Term', 'Link'], rows)
 ```
 
 
-```ad-question
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. 
-```
