@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"type":"text","text":"Motivations","id":"08428ef2b9b1b237","x":-640,"y":-200,"width":160,"height":69},
+		{"type":"text","text":"connect ideas","id":"c892b68f9dba5579","x":-380,"y":-131,"width":250,"height":60},
+		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-380,"y":-40,"width":250,"height":60},
+		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-380,"y":-320,"width":250,"height":60},
+		{"id":"8539e1b7d349c545","x":-378,"y":-251,"width":250,"height":60,"type":"text","text":"tool for thinking"},
+		{"id":"2b44e0e8bdd97d18","x":-751,"y":113,"width":191,"height":60,"type":"text","text":"considerations"},
+		{"id":"c01d146fd659c10e","x":-497,"y":60,"width":242,"height":83,"type":"text","text":"one tool vs. specialized tools compromised utilities"}
+	],
+	"edges":[
+		{"id":"c4c4b4a916c4d8f3","fromNode":"08428ef2b9b1b237","fromSide":"top","toNode":"f561ecfb64e07cfe","toSide":"left"},
+		{"id":"3083d90b0c070ce1","fromNode":"08428ef2b9b1b237","fromSide":"bottom","toNode":"1382a28748b9823a","toSide":"left"},
+		{"id":"270c56f027520219","fromNode":"08428ef2b9b1b237","fromSide":"right","toNode":"c892b68f9dba5579","toSide":"left"},
+		{"id":"5cca3a7be350f9e0","fromNode":"08428ef2b9b1b237","fromSide":"right","toNode":"8539e1b7d349c545","toSide":"left"},
+		{"id":"2627870bd220b334","fromNode":"2b44e0e8bdd97d18","fromSide":"right","toNode":"c01d146fd659c10e","toSide":"left"}
+	]
+}
