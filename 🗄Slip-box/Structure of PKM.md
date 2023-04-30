@@ -6,10 +6,10 @@
 
 ## Categorization Might be Too Rigid
 - Categorizing by subject is too arbitrary. A note can be related to both "optimization" and "linear algebra".
-- Tags seem to solve 
-Let's say we categorize using note type.
+- Tags seem to solve this problem but with tags you loose the hierarchy. 
+- What about categorizing by note type?
 ### Categorizing by note type.
-For example:
+Type candidates:
 - question
 - idea
 - summary (of short concept/idea in my words)
@@ -17,7 +17,9 @@ For example:
 - drawings
 But what if we summarize some topic and raise a question? Should we separate the question from the summary?
 
-Can tags help? What about MOC (e.g.[Wikipedia portals are analogous to MOC](https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals))
-But how should you choose topics for MOCs? For instance, optimization is too broad? Maybe not. you can always have 
+## MOCs
+- [Wikipedia portals are analogous to MOC](https://en.wikipedia.org/wiki/Wikipedia:Contents/Portals)
+- MOCs can be seen as tags that can be super-powered with context and hierarchy (we can have sub-MOCs)
+- It's beneficial to have a homepage with main MOCs.
 
 
