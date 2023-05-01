@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"5253e6050e759f2a","x":-2120,"y":-680,"width":480,"height":834,"label":"resources"},
-		{"type":"text","text":"## Current Tasks\n```tasks\npath includes perturb-x\nnot done\npriority is not low\n```\n","id":"baab4182099c4d2b","x":-2120,"y":-1080,"width":640,"height":320},
+		{"type":"text","text":"## Current Tasks\n```tasks\npath includes perturb-x\nnot done\npriority is not low\n```\n","id":"baab4182099c4d2b","x":-2120,"y":-1080,"width":620,"height":300},
 		{"type":"text","text":"Papers\n\n- [[@Compositional perturbation autoencoder for single-cell response modeling]]\n- ","id":"628de0ed447c364f","x":-2100,"y":-601,"width":413,"height":152},
 		{"type":"text","text":"**Blogs/Tutorials**\n- [Best Practices Theis](https://www.sc-best-practices.org/preamble.html)\n- \n\n\n","id":"cd3a0323b5444ead","x":-2100,"y":-379,"width":413,"height":122}
 	],

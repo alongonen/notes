@@ -16,14 +16,14 @@
 ## Data
 - [ ] why do we duplicate the control data for each perturbation? 🔽 
 - [x] `num_perturbations=3` in `experiment3`  ✅ 2023-04-24
-- [ ] sciplex3 vs. sciplex: number of examples, num genes
+- [ ] sciplex3 vs. sciplex: number of examples, num genes 📅 2023-05-02 
 
 
 ## Model
-- [ ] ensure  DDP support with multiple GPUs
 - [ ] predict step
 - [ ] save the trained model's prediction on hold-out set (using `on_training_end`)
 
 
 ## Trainer
 - [ ] progress bar
+- [ ] ensure  DDP support with multiple GPUs
