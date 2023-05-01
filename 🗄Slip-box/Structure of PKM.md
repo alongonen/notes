@@ -1,5 +1,5 @@
 
-> [!question] What categories are useful in a PKM
+> [!question] How should we categorize notes?
 > - What do we want to achieve by categorizing? 
 > - What are the underlying categories? Subjects vs. note types?
 > - Tags vs. Folders vs. MOC.
@@ -8,7 +8,7 @@
 - Categorizing by subject is too arbitrary. A note can be related to both "optimization" and "linear algebra".
 - Tags seem to solve this problem but with tags you loose the hierarchy. 
 - What about categorizing by note type?
-### Categorizing by note type.
+### Categorizing by note type
 Type candidates:
 - question
 - idea
