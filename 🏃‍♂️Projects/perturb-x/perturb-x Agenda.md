@@ -4,13 +4,18 @@ kanban-plugin: basic
 
 ---
 
-## Code Infrastructure
+## Code: Infrastructure
 
 - [ ] `test_step` with optional save predictions to dataframe @{2023-05-04}
 - [ ] DDP with multiple GPUs @{2023-05-18}
 - [ ] `learning_curve` callback
 - [ ] instantiating datamodule and model with hydra
 - [ ] logging_utils: delete log_hyperparams?
+
+
+## Code: Preprocessing
+
+- [ ] duplicating control for every perturbation is redundant @{2023-05-04}
 
 
 ## Model
