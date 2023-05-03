@@ -2,9 +2,9 @@
 ## Keep or Delete
 - [ ] learning curve callback 🔽  
 - [ ] hooks such as `training_epoch_end` 🔽 
-- [ ] `ae_tr_model_sets.predict_sets` 🔽 
-- [ ] `matching_penalty==adv`  🔽 
-- [ ] `config_l1000` 🔽 
+- [x] `ae_tr_model_sets.predict_sets` 🔽 ✅ 2023-05-03
+- [x] `matching_penalty==adv` 🔽 ✅ 2023-05-03
+- [x] `config_l1000` 🔽 ✅ 2023-05-03
 - [ ] `use_ext_attributes` 🔽 
 - [x] `num_celltypes`  🔽 ✅ 2023-04-24
 - [x] `num_perturbations` 🔽   ✅ 2023-04-24
