@@ -9,6 +9,7 @@ kanban-plugin: basic
 - [ ] `learning_curve` callback @{2023-05-03}
 - [ ] `test_step` with optional save predictions to dataframe @{2023-05-04}
 - [ ] DDP with multiple GPUs @{2023-05-18}
+- [ ] instantiating datamodule and model with hydra
 
 
 ## Model
