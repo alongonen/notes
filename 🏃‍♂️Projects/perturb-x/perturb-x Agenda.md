@@ -6,10 +6,9 @@ kanban-plugin: basic
 
 ## Code Infrastructure
 
-- [ ] `learning_curve` callback
-- [x] `config_l1000`
-- [ ] `test_step` with optional save predictions to dataframe
-- [ ] DDP with multiple GPUs @{2023-05-03}
+- [ ] `learning_curve` callback @{2023-05-03}
+- [ ] `test_step` with optional save predictions to dataframe @{2023-05-04}
+- [ ] DDP with multiple GPUs @{2023-05-18}
 
 
 ## Model
@@ -17,6 +16,7 @@ kanban-plugin: basic
 - [ ] Discrepancy in Latent Space <br>- MMD vs other penalties <br>- s
 - [ ] gene weights
 - [ ] adding noise needed
+- [ ] selection layer
 
 
 ***
@@ -24,6 +24,7 @@ kanban-plugin: basic
 ## Archive
 
 - [x] ## Sciplex chemCPA<br>- [x] splits
+- [x] `config_l1000`
 
 %% kanban:settings
 ```
