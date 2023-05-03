@@ -6,12 +6,17 @@ kanban-plugin: basic
 
 ## Code Infrastructure
 
-- [ ] ## Clean Code <br>@[[2023-05-04]]<br>- [ ] gene weights <br>- [ ] `learning_curve` callback<br>- [x] `config_l1000`
+- [ ] `learning_curve` callback
+- [x] `config_l1000`
+- [ ] `test_step` with optional save predictions to dataframe
+- [ ] DDP with multiple GPUs @{2023-05-03}
 
 
 ## Model
 
-- [ ] Discrepancy in Latent Space <br>- [ ] MMD vs other penalties <br>- [ ] s
+- [ ] Discrepancy in Latent Space <br>- MMD vs other penalties <br>- s
+- [ ] gene weights
+- [ ] adding noise needed
 
 
 ***
