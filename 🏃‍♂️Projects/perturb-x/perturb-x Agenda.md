@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] gene weights
 - [ ] adding noise needed
 - [ ] selection layer
+- [ ] l1, l2 reg needed
 
 
 ***
