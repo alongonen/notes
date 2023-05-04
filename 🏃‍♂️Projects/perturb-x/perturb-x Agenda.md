@@ -12,6 +12,7 @@ kanban-plugin: basic
 - [ ] instantiating datamodule and model with hydra
 - [ ] logging_utils: delete log_hyperparams?
 - [ ] wandb: integrate and [update config with hydra](https://docs.wandb.ai/guides/integrations/hydra)
+- [ ] [[Solving Conflicts between perturb-x and scgen with Poetry]]
 
 
 ## Code: Preprocessing
