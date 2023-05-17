@@ -1,5 +1,4 @@
 
-## Cayley Theorem
 
 **Motivation**: exploring structure of (finite) groups by embedding them in (possibly) small permutation groups. 
 

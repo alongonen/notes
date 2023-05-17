@@ -16,7 +16,7 @@
 ## Data
 - [ ] why do we duplicate the control data for each perturbation? 🔽 
 - [x] `num_perturbations=3` in `experiment3`  ✅ 2023-04-24
-- [ ] sciplex3 vs. sciplex: number of examples, num genes 📅 2023-05-02 
+- [ ] sciplex3 vs. sciplex: number of examples, num genes 📅 2023-05-02
 
 
 ## Model

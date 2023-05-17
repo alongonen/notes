@@ -3,7 +3,6 @@
 
 - `poetry add jupyterlab`
 
-
 ## Open Jupyter with SRUN 
 
 - Connect to HPC with ssh as usual 
