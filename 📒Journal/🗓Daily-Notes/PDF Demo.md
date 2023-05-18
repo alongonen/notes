@@ -1,5 +1,5 @@
 ---
-annotation-target: https://arxiv.org/pdf/2104.13478.pdf
+annotation-target: https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1.full.pdf
 ---
 
 
@@ -9,44 +9,18 @@ annotation-target: https://arxiv.org/pdf/2104.13478.pdf
 
 
 
->%%
->```annotation-json
->{"created":"2023-05-18T08:00:23.920Z","updated":"2023-05-18T08:00:23.920Z","document":{"title":"2104.13478.pdf","link":[{"href":"urn:x-pdf:d6aefb01a0eb35375fd3d6a816d0d202"},{"href":"https://arxiv.org/pdf/2104.13478.pdf"}],"documentFingerprint":"d6aefb01a0eb35375fd3d6a816d0d202"},"uri":"https://arxiv.org/pdf/2104.13478.pdf","target":[{"source":"https://arxiv.org/pdf/2104.13478.pdf","selector":[{"type":"TextPositionSelector","start":4850,"end":4871},{"type":"TextQuoteSelector","exact":"elementary particles ","prefix":"en enabledthe classification of ","suffix":"as irreducible representations o"}]}]}
->```
->%%
->*%%PREFIX%%en enabledthe classification of%%HIGHLIGHT%% ==elementary particles== %%POSTFIX%%as irreducible representations o*
->%%LINK%%[[#^z7y3vcdr3tp|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^z7y3vcdr3tp
+
 
 
 >%%
 >```annotation-json
->{"created":"2023-05-18T08:00:46.156Z","text":"done\n","updated":"2023-05-18T08:00:46.156Z","document":{"title":"2104.13478.pdf","link":[{"href":"urn:x-pdf:d6aefb01a0eb35375fd3d6a816d0d202"},{"href":"https://arxiv.org/pdf/2104.13478.pdf"}],"documentFingerprint":"d6aefb01a0eb35375fd3d6a816d0d202"},"uri":"https://arxiv.org/pdf/2104.13478.pdf","target":[{"source":"https://arxiv.org/pdf/2104.13478.pdf","selector":[{"type":"TextPositionSelector","start":12060,"end":12193},{"type":"TextQuoteSelector","exact":"Rather, we study several well-known architectures in-depthin order to demonstrate the principles and ground them in existing research","prefix":"arch on GeometricDeep Learning. ","suffix":",with the hope that we have left"}]}]}
+>{"created":"2023-05-18T08:14:06.354Z","updated":"2023-05-18T08:14:06.354Z","document":{"title":"Mapping cells through time and space with moscot","link":[{"href":"urn:x-pdf:c8540e3bfb813a957d447b020fabe4bc"},{"href":"https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1.full.pdf"}],"documentFingerprint":"c8540e3bfb813a957d447b020fabe4bc"},"uri":"https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1.full.pdf","target":[{"source":"https://www.biorxiv.org/content/10.1101/2023.05.11.540374v1.full.pdf","selector":[{"type":"TextPositionSelector","start":1717,"end":1729},{"type":"TextQuoteSelector","exact":"encompassing","prefix":"s prevent the measurement ofall-","suffix":" cellular states in their native"}]}]}
 >```
 >%%
->*%%PREFIX%%arch on GeometricDeep Learning.%%HIGHLIGHT%% ==Rather, we study several well-known architectures in-depthin order to demonstrate the principles and ground them in existing research== %%POSTFIX%%,with the hope that we have left*
->%%LINK%%[[#^wkjcgg3wpi|show annotation]]
+>*%%PREFIX%%s prevent the measurement ofall-%%HIGHLIGHT%% ==encompassing== %%POSTFIX%%cellular states in their native*
+>%%LINK%%[[#^1cv7psn55p5|show annotation]]
 >%%COMMENT%%
->done
 >
 >%%TAGS%%
 >
-^wkjcgg3wpi
-
-
->%%
->```annotation-json
->{"created":"2023-05-18T08:01:08.472Z","text":"page note","updated":"2023-05-18T08:01:08.472Z","document":{"title":"2104.13478.pdf","link":[{"href":"urn:x-pdf:d6aefb01a0eb35375fd3d6a816d0d202"},{"href":"https://arxiv.org/pdf/2104.13478.pdf"}],"documentFingerprint":"d6aefb01a0eb35375fd3d6a816d0d202"},"uri":"https://arxiv.org/pdf/2104.13478.pdf"}
->```
->%%
->*%%PREFIX%%%%HIGHLIGHT%% ==== %%POSTFIX%%*
->%%LINK%%[[#^7kwjyh9hqiw|show annotation]]
->%%COMMENT%%
->page note
->%%TAGS%%
->
-^7kwjyh9hqiw
+^1cv7psn55p5
