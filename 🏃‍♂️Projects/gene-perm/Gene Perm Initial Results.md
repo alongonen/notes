@@ -116,19 +116,6 @@ Here we investigate the choice of the permuted pair. Each pair is associated wit
 
 ---
 
-## TODOS
-
-
-
-### Next steps
-
-- [ ] 
-
-### Main TODOS
-
-- [x] k cells
-
-### Code Infrastructure
 
 
 
