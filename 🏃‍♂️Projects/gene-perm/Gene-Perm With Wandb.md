@@ -1,5 +1,9 @@
 
-- 
+- removed `on_train_start` hook that was added for tensorboard?
+
+
+- [ ] add config to hydra
+
 
 
 > [!question] Subprojects
