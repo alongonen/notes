@@ -9,7 +9,6 @@
 		{"type":"text","text":"more interactions $\\leftrightarrow$ more anchor genes\n","id":"2f8a83feb6586437","x":-780,"y":-20,"width":362,"height":120},
 		{"type":"text","text":"## Setting\n- **Input**: gene expressions\n\t- conditions are currently ignored\n\t- reduce dimensionality by presenting only $d$ dominant *anchor* genes\n\t- use blocks aggregate $k$ single cells \n\t- for each block decide randomly (and independently) whether to permute the expression values\n- **Permutation variants**:\n\t- two fixed genes from the anchor genes\n\t- *primary* gene from anchor genes and one *decoy* gene from non-anchor genes","id":"3a3c957deabe54e8","x":-1379,"y":-860,"width":597,"height":525},
 		{"type":"text","text":"larger blocks","id":"5f0cb1c89195d108","x":-780,"y":270,"width":362,"height":60},
-		{"type":"text","text":"```tasks\npath includes gene-perm\nnot done\ntags include next\n```\n","id":"401a864b86573aeb","x":-1341,"y":-1341,"width":742,"height":261},
 		{"type":"text","text":"smaller blocks\n","id":"d73a631897eb3858","x":-258,"y":270,"width":362,"height":60},
 		{"type":"text","text":"permute two dominant genes","id":"e8ec7732c0b426b0","x":-780,"y":140,"width":362,"height":100},
 		{"type":"text","text":"permute dominant with less dominant","id":"f9659f5a201cb7f7","x":-258,"y":140,"width":362,"height":100}

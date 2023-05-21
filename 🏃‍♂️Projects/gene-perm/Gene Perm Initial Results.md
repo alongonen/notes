@@ -127,18 +127,11 @@ Here we investigate the choice of the permuted pair. Each pair is associated wit
 ### Main TODOS
 
 - [x] k cells
-- [ ] additional datasets
-- [ ] Downstream task (Alon B.?)
 
 ### Code Infrastructure
 
-- [ ] Sweep from config
 
-- [ ] Hyperparameters from sweep
 
-- [ ] Optuna?
-
-  
 
 
 
