@@ -1,10 +1,4 @@
----
-created: <% tp.file.creation_date() %>
-run: 
-piano practice: 
-guitar practice: 
-read: 
----
+
 
 
 # <% moment(tp.file.title,'YYYY-MM-DD').format("dddd, MMMM DD, YYYY") %>
@@ -15,7 +9,9 @@ read:
 
 
 ## 📝 Notes
-- <% tp.file.cursor() %>
+
+
+
 
 ---
 ## Meta
