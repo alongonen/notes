@@ -8,10 +8,8 @@ tags: [excalidraw]
 
 
 # Text Elements
-Gene Permutations
-
-
-Goal ^2kz6OqYN
+- avoid using fixed set of anchor genes
+-  ^ajrR47Dt
 
 %%
 # Drawing
@@ -22,12 +20,12 @@ Goal ^2kz6OqYN
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.1",
 	"elements": [
 		{
-			"id": "2kz6OqYN",
+			"id": "ajrR47Dt",
 			"type": "text",
-			"x": -179.25,
-			"y": -248.5,
-			"width": 185.3798370361328,
-			"height": 100,
+			"x": -632.25,
+			"y": -374.58984375,
+			"width": 390.7596740722656,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -38,23 +36,59 @@ Goal ^2kz6OqYN
 			"opacity": 100,
 			"groupIds": [],
 			"roundness": null,
-			"seed": 1080356255,
-			"version": 25,
-			"versionNonce": 1250842399,
+			"seed": 630103551,
+			"version": 151,
+			"versionNonce": 361981265,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1684831438878,
+			"updated": 1684925673043,
 			"link": null,
 			"locked": false,
-			"text": "Gene Permutations\n\n\nGoal",
-			"rawText": "Gene Permutations\n\n\nGoal",
+			"text": "- avoid using fixed set of anchor genes\n- ",
+			"rawText": "- avoid using fixed set of anchor genes\n- ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 93,
+			"baseline": 43,
 			"containerId": null,
-			"originalText": "Gene Permutations\n\n\nGoal",
+			"originalText": "- avoid using fixed set of anchor genes\n- ",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "lWlpCo0j",
+			"type": "text",
+			"x": -241.25,
+			"y": -363,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1710357279,
+			"version": 2,
+			"versionNonce": 647367249,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1684925472112,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
@@ -73,8 +107,8 @@ Goal ^2kz6OqYN
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 457.75,
-		"scrollY": 354.5,
+		"scrollX": 1012.75,
+		"scrollY": 613,
 		"zoom": {
 			"value": 1
 		},
