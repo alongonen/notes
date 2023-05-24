@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"Modeling Data","id":"e2b94312ed1abb54","x":-820,"y":-380,"width":250,"height":60},
+		{"type":"text","text":"## Terms\n- $n$: total number of genes\n- $d<n$: highly variable / primary gens\n- anchor genes: genes that remain intact\n- decoy genes: $d-n$ non-primary genes","id":"e2998c9127acb0ae","x":-454,"y":-438,"width":494,"height":238},
+		{"type":"text","text":"## Considerations\n- fixed or non-fixed anchor genes\n- use or don't use decoy genes\n- ","id":"909427aac91c4be1","x":-920,"y":-100,"width":428,"height":179},
+		{"type":"text","text":"## Current Setup\n- draw a binary label $y$\n- choose a random block consisting of $B$ single cells.\n- choose a pair of genes $i,j$ from the d primary genes \n- if y=1, replace the column i with the closest column (w.r.t. Euclidean norm), j, from the\n  unobserved columns\n\n","id":"e5fb4ae3e2828556","x":-260,"y":-90,"width":680,"height":350}
+	],
+	"edges":[]
+}
