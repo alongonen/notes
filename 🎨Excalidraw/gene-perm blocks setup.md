@@ -1319,6 +1319,47 @@ a723557d900028c4a61753b865b858b0dcaf3c89: $$n$$
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "vniHOAq6ogM8VamE63vFX",
+			"type": "line",
+			"x": 222.0104770219558,
+			"y": 251.00731372048358,
+			"width": 272.7855603448277,
+			"height": 516.1853448275862,
+			"angle": 0,
+			"strokeColor": "#343a40",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1151106495,
+			"version": 60,
+			"versionNonce": 177647633,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1684916599296,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					272.7855603448277,
+					-516.1853448275862
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
