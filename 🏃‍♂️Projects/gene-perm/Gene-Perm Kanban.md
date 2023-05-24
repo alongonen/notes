@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] recall status and update missing reports @{2023-05-22}
-- [ ] Infrastructure<br>- [[Gene-Perm With Wandb|use wandb]]<br>- efficient sweep @{2023-05-22}
+- [ ] ## new setup<br>[[gene-perm modeling.canvas]]<br>- no anchor genes
 
 
 ## Next
@@ -19,10 +19,15 @@ kanban-plugin: basic
 
 ## Someday
 
+- [ ] ## sweep<br>- wandb integration<br>- from config
 - [ ] delete code<br>- ~~one of the data creation file~~
 
 
+***
 
+## Archive
+
+- [x] Infrastructure<br>- [[Gene-Perm With Wandb|use wandb]]<br>- efficient sweep @{2023-05-22}
 
 %% kanban:settings
 ```
