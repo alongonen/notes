@@ -13,11 +13,10 @@ unobserved genes
 
 - draw a binary label y
 - choose a random block consisting of B single cells.
-- choose one primary gene i from the first p primary genes 
-- if y=1, replace the column g with the closest column (w.r.t. Euclidean norm) from
-  unseen columns
-- otherwise (i.e. if y=0), leave the block intact
-- present the block (w.o. the unseen d-a dimensions).
+- choose one primary gene i from the d primary genes 
+- if y=1, replace the column i with the closest column (w.r.t. Euclidean norm), j, from the
+  unobserved columns
+
  ^xkigCJdr
 
 cells
@@ -510,8 +509,8 @@ a723557d900028c4a61753b865b858b0dcaf3c89: $$n$$
 		},
 		{
 			"type": "text",
-			"version": 571,
-			"versionNonce": 1793440543,
+			"version": 628,
+			"versionNonce": 313222897,
 			"isDeleted": false,
 			"id": "xkigCJdr",
 			"fillStyle": "hachure",
@@ -520,29 +519,29 @@ a723557d900028c4a61753b865b858b0dcaf3c89: $$n$$
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -228.46139278654783,
-			"y": 345.80013537521245,
+			"x": -228.39194834210338,
+			"y": 346.3339895418791,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 802.2392578125,
-			"height": 200,
+			"width": 865.5592041015625,
+			"height": 175,
 			"seed": 1769073919,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684914688194,
+			"updated": 1684914821948,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the first p primary genes \n- if y=1, replace the column g with the closest column (w.r.t. Euclidean norm) from\n  unseen columns\n- otherwise (i.e. if y=0), leave the block intact\n- present the block (w.o. the unseen d-a dimensions).\n",
-			"rawText": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the first p primary genes \n- if y=1, replace the column g with the closest column (w.r.t. Euclidean norm) from\n  unseen columns\n- otherwise (i.e. if y=0), leave the block intact\n- present the block (w.o. the unseen d-a dimensions).\n",
+			"text": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the d primary genes \n- if y=1, replace the column i with the closest column (w.r.t. Euclidean norm), j, from the\n  unobserved columns\n\n",
+			"rawText": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the d primary genes \n- if y=1, replace the column i with the closest column (w.r.t. Euclidean norm), j, from the\n  unobserved columns\n\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the first p primary genes \n- if y=1, replace the column g with the closest column (w.r.t. Euclidean norm) from\n  unseen columns\n- otherwise (i.e. if y=0), leave the block intact\n- present the block (w.o. the unseen d-a dimensions).\n",
+			"originalText": "- draw a binary label y\n- choose a random block consisting of B single cells.\n- choose one primary gene i from the d primary genes \n- if y=1, replace the column i with the closest column (w.r.t. Euclidean norm), j, from the\n  unobserved columns\n\n",
 			"lineHeight": 1.25,
-			"baseline": 193
+			"baseline": 168
 		},
 		{
 			"type": "image",
