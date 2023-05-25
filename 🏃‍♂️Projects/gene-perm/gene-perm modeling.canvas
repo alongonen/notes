@@ -3,7 +3,7 @@
 		{"type":"group","id":"ae95c92bed4c182d","x":-1160,"y":-518,"width":1800,"height":830,"label":"data modeling"},
 		{"type":"text","text":"## Terms\n- $n$: total number of genes\n- $d<n$: highly variable / primary gens\n- anchor genes: genes that remain intact\n- decoy genes: $d-n$ non-primary genes","id":"e2998c9127acb0ae","x":-1140,"y":-498,"width":494,"height":238},
 		{"type":"text","text":"## Considerations\n- fixed or non-fixed anchor genes\n- use or don't use decoy genes\n- ","id":"909427aac91c4be1","x":-540,"y":-498,"width":428,"height":238},
-		{"type":"text","text":"## Current Setup\n- draw a binary label $y$\n- choose a random block consisting of $B$ single cells.\n- choose a pair of genes $i,j$ from the d primary genes \n- If $y=1$, replace column $i$ with column $j$\n\n![[gene-perm data.excalidraw]]\n\n- no fixed anchor genes\n- variants: select $j$ advesarially","id":"e5fb4ae3e2828556","x":-60,"y":-498,"width":680,"height":790}
+		{"type":"text","text":"## Current Setup\n- draw a binary label $y$\n- choose a random block consisting of $B$ single cells.\n- choose a pair of genes $i,j$ from the d primary genes \n- If $y=1$, replace column $i$ with column $j$\n\n![[gene-perm data.excalidraw]]\n\n- no fixed anchor genes\n- variants: select $j$ adversarially","id":"e5fb4ae3e2828556","x":-60,"y":-498,"width":680,"height":790}
 	],
 	"edges":[]
 }

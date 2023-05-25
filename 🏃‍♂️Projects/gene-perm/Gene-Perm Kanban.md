@@ -6,21 +6,21 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] recall status and update missing reports @{2023-05-22}
-- [ ] ## new setup<br>[[gene-perm modeling.canvas]]<br>- no anchor genes
+- [ ] ### recall status and update missing reports @{2023-05-22}
+- [ ] ### new setup<br>[[gene-perm modeling.canvas]]<br>- permute examples to discard positions?
 
 
 ## Next
 
-- [ ] Additional datasets (sciplex?)
-- [ ] take conditions into account + ablation
-- [ ] downstream task
+- [ ] ### Additional datasets (sciplex?)
+- [ ] ### conditions<br>take conditions into account + ablation
 
 
 ## Someday
 
 - [ ] ## sweep<br>- wandb integration<br>- from config
 - [ ] delete code<br>- ~~one of the data creation file~~
+- [ ] ### embeddings vs finetuning
 
 
 ***
