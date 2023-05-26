@@ -2,7 +2,7 @@
 
 ```tracker
 searchType: frontmatter
-searchTarget: bloodpressure[0], bloodpressure[1]
+searchTarget: bp/systolic, bp/diastolic
 datasetName: systolic, diastolic
 folder: 📒Journal/🗓Daily-Notes
 startDate: 2023-02-01
@@ -21,8 +21,8 @@ line:
 
 ```tracker
 searchType: frontmatter
-searchTarget: run
-datasetName: runs
+searchTarget: run[1], run[2]
+datasetName: min, km
 folder: 📒Journal/🗓Daily-Notes
 startDate: 2023-02-07
 endDate: 2023-02-20
