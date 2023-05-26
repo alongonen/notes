@@ -5,18 +5,19 @@ searchType: frontmatter
 searchTarget: bloodpressure[0], bloodpressure[1]
 datasetName: systolic, diastolic
 folder: 📒Journal/🗓Daily-Notes
-startDate: 2023-02-07
-endDate: 2023-02-20
+startDate: 2023-02-01
+endDate: 2023-02-26
 line:
     title: Blood Pressures
     yAxisLabel: BP
     yAxisUnit: mmHg
-    lineColor: green, red
+    lineColor: yellow, red
     showLegend: true
     legendPosition: bottom
 ```
 
 ---
+
 
 ```tracker
 searchType: frontmatter
@@ -32,4 +33,5 @@ line:
     lineColor: green
     showLegend: true
     legendPosition: bottom
-```
+	showLine: false
+	```
