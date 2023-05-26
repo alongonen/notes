@@ -2,7 +2,7 @@
 
 ```tracker
 searchType: frontmatter
-searchTarget: bp/systolic, bp/diastolic
+searchTarget: bp/systolic,bp/diastolic
 datasetName: systolic, diastolic
 folder: 📒Journal/🗓Daily-Notes
 startDate: 2023-02-01
@@ -11,7 +11,7 @@ line:
     title: Blood Pressures
     yAxisLabel: BP
     yAxisUnit: mmHg
-    lineColor: yellow, red
+    lineColor: green, red
     showLegend: true
     legendPosition: bottom
 ```
