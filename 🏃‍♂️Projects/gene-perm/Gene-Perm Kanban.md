@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] ### recall status and update missing reports @{2023-05-22}
 - [ ] ### new setup <br>[[gene-perm modeling.canvas]]<br>- permute examples to discard positions?
-- [ ] ### to consider one-hot / fixed embeddings<br>- highly variable genes<br>- Jeremy: maybe fixed small representation with different genes
+- [ ] ### to consider <br>- one-hot / fixed embeddings<br>- highly variable genes<br>- Jeremy: maybe fixed small representation with different genes
 
 
 ## Next
