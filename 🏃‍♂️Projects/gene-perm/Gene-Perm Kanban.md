@@ -14,6 +14,7 @@ kanban-plugin: basic
 
 - [ ] ### Additional datasets (sciplex?)
 - [ ] ### conditions<br>take conditions into account + ablation
+- [ ] synthetic data
 
 
 ## Someday

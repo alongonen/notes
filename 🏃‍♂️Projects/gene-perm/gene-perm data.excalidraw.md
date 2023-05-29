@@ -606,8 +606,8 @@ c17a8dc7c64cee4d915b59634890c3523c03fd43: $$B$$
 		},
 		{
 			"type": "image",
-			"version": 102,
-			"versionNonce": 540527345,
+			"version": 122,
+			"versionNonce": 1537899516,
 			"isDeleted": false,
 			"id": "gpcRKHVWznWjx-7CjdGhh",
 			"fillStyle": "hachure",
@@ -616,8 +616,8 @@ c17a8dc7c64cee4d915b59634890c3523c03fd43: $$B$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -187.19933469270586,
-			"y": 36.914303248341355,
+			"x": -188.22612040699156,
+			"y": 33.945553248341355,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 17.796006944444382,
@@ -626,7 +626,7 @@ c17a8dc7c64cee4d915b59634890c3523c03fd43: $$B$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1684926228783,
+			"updated": 1685346833887,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -753,47 +753,6 @@ c17a8dc7c64cee4d915b59634890c3523c03fd43: $$B$$
 				1,
 				1
 			]
-		},
-		{
-			"type": "line",
-			"version": 1284,
-			"versionNonce": 1528508031,
-			"isDeleted": true,
-			"id": "tAS54MzyVsbz4bYBGjvt_",
-			"fillStyle": "hachure",
-			"strokeWidth": 0.5,
-			"strokeStyle": "dotted",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 18.563785902778136,
-			"y": -294.316309509201,
-			"strokeColor": "#343a40",
-			"backgroundColor": "transparent",
-			"width": 318.6028946733103,
-			"height": 0.3299988551373758,
-			"seed": 1288921215,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1684926374486,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					318.6028946733103,
-					-0.3299988551373758
-				]
-			]
 		}
 	],
 	"appState": {
@@ -811,10 +770,10 @@ c17a8dc7c64cee4d915b59634890c3523c03fd43: $$B$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 562.032996437649,
-		"scrollY": 454.515625,
+		"scrollX": 408.6723355056653,
+		"scrollY": 697.8970424107138,
 		"zoom": {
-			"value": 2
+			"value": 0.7000000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
