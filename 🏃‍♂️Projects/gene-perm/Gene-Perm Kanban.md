@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## Next
 
 - [ ] ### Additional datasets (sciplex?)
-- [ ] ### conditions<br>take conditions into account + ablation
+- [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
 - [ ] synthetic data
 
 

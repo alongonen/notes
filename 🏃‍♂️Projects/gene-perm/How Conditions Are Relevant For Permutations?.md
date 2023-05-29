@@ -9,5 +9,3 @@
 
 
 ---
-So, 
-[ ]🔼 should we take conditions into account?
