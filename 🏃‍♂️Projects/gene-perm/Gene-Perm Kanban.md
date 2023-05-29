@@ -7,7 +7,7 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] ### recall status and update missing reports @{2023-05-22}
-- [ ] ### new setup<br>[[gene-perm modeling.canvas]]<br>- permute examples to discard positions?
+- [ ] ### new setup <br>[[gene-perm modeling.canvas]]<br>- permute examples to discard positions?
 
 
 ## Next
