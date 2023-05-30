@@ -2,6 +2,7 @@
 title: Compositional perturbation autoencoder for single-cell response modeling
 authors: Mohammad Lotfollahi, Anna Klimovskaia Susmelj, Carlo De Donno, Yuge Ji
 year: 
+status: read
 
 ---
 
