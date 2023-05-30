@@ -2,7 +2,7 @@
 title: scGen predicts single-cell perturbation responses
 authors: Mohammad Lotfollahi, F. Alexander Wolf, Fabian J. Theis
 year: 2019
-
+status: read
 ---
 
 notes: <h1>Annotations

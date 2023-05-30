@@ -2,7 +2,7 @@
 title: Tutorial on Variational Autoencoders
 authors: Carl Doersch
 year: 2021
-
+status: toread
 ---
 
 notes: <h1>Annotations
