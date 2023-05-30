@@ -15,7 +15,8 @@ kanban-plugin: basic
 
 - [ ] ### Additional datasets (sciplex?)
 - [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
-- [ ] synthetic data
+- [ ] ### synthetic data
+- [ ] ### ddp with more gpus
 
 
 ## Someday
