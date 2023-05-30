@@ -5,8 +5,8 @@
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/archive/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-1579,"y":-770,"width":400,"height":224},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/archive/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-1579,"y":-1066,"width":400,"height":234},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":-900,"y":-500,"width":400,"height":326},
-		{"id":"c9c78bc7f9ac4216","x":-900,"y":-94,"width":250,"height":60,"type":"text","text":"num blocks\n"},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-900,"y":-970,"width":400,"height":400}
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-900,"y":-970,"width":400,"height":400},
+		{"id":"73efbc62a71cfc08","x":-900,"y":-94,"width":340,"height":94,"type":"file","file":"🏃‍♂️Projects/gene-perm/Pere-Gene Combinatorial Blocks.md"}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}
