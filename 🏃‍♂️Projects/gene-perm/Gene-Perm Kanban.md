@@ -6,25 +6,23 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] ### recall status and update missing reports @{2023-05-22}
-- [ ] ### new setup <br>[[gene-perm modeling.canvas]]
 - [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- highly variable genes<br>- Jeremy: maybe fixed small representation with different genes
+- [ ] ### synthetic data
 
 
 ## Next
 
 - [ ] ### Additional datasets (sciplex?)
 - [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
-- [ ] ### synthetic data
 - [ ] ### ddp with more gpus
 - [ ] ### No Order<br>permute examples to discard positions?
 
 
 ## Someday
 
-- [ ] ## sweep<br>- wandb integration<br>- from config
-- [ ] delete code<br>- ~~one of the data creation file~~
+- [ ] ### sweep<br>- wandb integration<br>- from config
 - [ ] ### embeddings vs finetuning
+- [ ] ### structured config<br>allows boolean conditions (e.g. `use_embed` depend on `baseline_mode`)
 
 
 ***
@@ -32,6 +30,9 @@ kanban-plugin: basic
 ## Archive
 
 - [x] Infrastructure<br>- [[Gene-Perm With Wandb|use wandb]]<br>- efficient sweep @{2023-05-22}
+- [x] ### recall status and update missing reports @{2023-05-22}
+- [x] ### new setup <br>[[gene-perm modeling.canvas]]
+- [x] delete code<br>- ~~one of the data creation file~~
 
 %% kanban:settings
 ```
