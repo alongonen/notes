@@ -23,4 +23,3 @@ But what if we summarize some topic and raise a question? Should we separate the
 - It's beneficial to have a homepage with main MOCs.
 
 
-sciplex_complete_middle_subset_lincs_genes

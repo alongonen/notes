@@ -4,7 +4,7 @@
 		{"type":"text","text":"Torch\n","id":"33ff3e6e6f343d4d","x":-1173,"y":-336,"width":200,"height":60},
 		{"type":"file","file":"🗄Slip-box/Pytorch Lightning Fit Structure.md","id":"f1ca94a7682cf333","x":-1628,"y":10,"width":400,"height":400},
 		{"type":"file","file":"🗄Slip-box/DDP on A Single Node.md","id":"314b1c8710080fb8","x":-1067,"y":10,"width":707,"height":269},
-		{"type":"file","file":"🗄Slip-box/DDP.canvas","id":"a45035e9669ed176","x":-2240,"y":-935,"width":400,"height":400},
+		{"type":"file","file":"🗄Slip-box/MoC/DDP.canvas","id":"a45035e9669ed176","x":-2240,"y":-935,"width":400,"height":400},
 		{"type":"file","file":"🗄Slip-box/Numpy Broadcasting.canvas","id":"bbb775f90374c74e","x":-2240,"y":-420,"width":400,"height":400},
 		{"id":"11cce3be91694e50","x":-963,"y":-935,"width":250,"height":171,"type":"text","text":"# Jupyter\n\n[[Jupyter Kernel]]\n[[Poetry with Jupyter]]"},
 		{"type":"text","text":"# Conda tips and Tricks\n\n\n## install tmux via conda\n\n\n```shell\nconda install -c conda-forge tmux\n```\n\n\n## Conda Export and Import\n\n```python\nconda env export > environment.yml\n```\n\n```python\nconda env create -f environment.yml\n```\n\n\n","id":"b48e729299329a99","x":-1726,"y":-935,"width":596,"height":335}
