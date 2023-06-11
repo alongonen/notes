@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- [[Ranking Genes for Permutations|highly variable genes]]<br>- Jeremy: maybe fixed small representation with different genes
 - [ ] ### synthetic data
+- [ ] ### forward<br>```python<br># TODO: ?????  <br># if i == 0:  <br>#     x = torch.mean(x, dim=1)  <br># if self.use_embed:  <br>#     x = torch.cat([x, self.embedding_layer(primary_gene)], dim=1)<br>```
 
 
 ## Next
