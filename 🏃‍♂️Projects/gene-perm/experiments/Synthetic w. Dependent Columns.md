@@ -16,8 +16,9 @@ Data Generation
 	- send the block as $x$ and $y$ as the label.
 
 Model
-- Note that for any $0$-labeled input, every row is balanced, i.e. sums to $0$.
-- On the other hand, for positive example we expect half of its rows to be balanced and the rest unbalanced. 
+To motivate our construction we make the following observations:
+- The rows of negative examples ($y=0$) are balanced, i.e., sum to $0$. 
+- On the other hand, positive examples's rows are either positive or negative with equal pwe expect half of its rows to be balanced and the rest unbalanced. 
 - Therefore, by summing over the features, taking absolute value and averaging over the block rows, we can distinguish between positive and negative examples.
 - We therefore consider the following model:
 
@@ -59,3 +60,4 @@ $$
 
 ## Results
 
+![](https://i.imgur.com/h8siktL.png)
