@@ -1,6 +1,7 @@
 ---
 tags: experiments
 wandb: 
+config: synthetic2
 ---
 
 ### Gene-Perm Synthetic Data
@@ -16,7 +17,8 @@ Data Generation
 
 Model
 - Note that for any $0$-labeled input, every row is balanced, i.e. sums to $0$.
-- On the other hand, for relatively small block size $b$, w.h.p. any positive example has at least one unbalanced row. Therefore, for any positive example, summing over its features, taking absolute value and averaging over the block rows, we expect to get a positive value. 
+- On the other hand, for positive example we expect half of its rows to be balanced and the rest unbalanced. 
+- Therefore, by summing over the features, taking absolute value and averaging over the block rows, we can distinguish between positive and negative examples.
 - We therefore consider the following model:
 
 ```python
@@ -26,7 +28,10 @@ f2 = nn.lLinear(1,1)
 
 
 z = f1(x) # x is B x b x d -> f1(x) is B x b x 1
-vs = f2(q)
+u = torch.abs(z)
+v = torch.sign(z) # notaional only
+q = torch.mean(u)
+s = f2(q)
 y_pred = nn.Sigmoid()(x)
 ```
 
@@ -48,3 +53,5 @@ $$
 = (b^{-1},\ldots,b^{-1})^\top \mathrm{diag}(v)(x_{1,j},\ldots,x_{b,j} )
 \end{align*}
 $$
+
+
