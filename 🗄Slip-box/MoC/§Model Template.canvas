@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"4f319e57d0b5589f","x":50,"y":-118,"width":400,"height":400,"type":"file","file":"🗄Slip-box/Numpy Broadcasting.canvas"},
+		{"type":"file","file":"🗄Slip-box/Numpy Broadcasting.canvas","id":"4f319e57d0b5589f","x":50,"y":-118,"width":400,"height":400},
 		{"type":"text","text":"## External Templates\n[hydra+lightning+optuna](https://github.com/ashleve/lightning-hydra-template)","id":"577b4892395fc584","x":-340,"y":-500,"width":300,"height":99},
 		{"type":"text","text":"## Sweeps\n- [[Sweep Hyperparmeters with GRID-AI]]\n- [[Hyperparameter Optimization with Sweeps]]","id":"0057b54b977a4781","x":60,"y":-500,"width":391,"height":260},
 		{"type":"text","text":"## Lightning Resources\n\n[[Pytorch Lightning Fit Structure]]\n\n","id":"a2ed7ebee4029156","x":-340,"y":-360,"width":300,"height":120},
-		{"id":"9d6a426b63345c11","x":-48,"y":-640,"width":250,"height":60,"type":"text","text":"[[Hyperparameter Optimization with Sweeps]]"}
+		{"type":"text","text":"[[Hyperparameter Optimization with Sweeps]]","id":"9d6a426b63345c11","x":-48,"y":-640,"width":250,"height":60},
+		{"id":"10893b7c9e2b0375","x":-417,"y":-52,"width":250,"height":60,"type":"text","text":"[wandb update config](https://docs.wandb.ai/guides/integrations/hydra)"}
 	],
 	"edges":[]
 }
