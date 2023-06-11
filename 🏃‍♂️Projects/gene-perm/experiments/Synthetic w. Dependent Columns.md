@@ -4,22 +4,23 @@ wandb:
 config: synthetic2
 ---
 
-### Gene-Perm Synthetic Data
-Data Generation
-- We create a $\{\pm 1\}^{m \times d}$ matrix as follows:
-- For each row, we put $+1$ in random $d/2$ columns (chosen uniformly without replacement). In the rest of the columns we put $-1$. 
+## Gene-Perm Synthetic Data
+
+### Data Generation
+- We create a $\{0,1\}^{m \times d}$ matrix as follows:
+- For each row, we put $+1$ in random $d/2$ columns (chosen uniformly without replacement). In the rest of the columns we put $0$. 
 - A single input example is generated as follows:
-	- select a block of $b$ random rows from the table.
+	- select a block consisting of $b$ random rows.
 	- choose a random binary label $y \in \{0,1\}$. 
-	- if $y=1$, choose a random column $j \in [d]$ and replace the elements in this column with $b$ randomly drawn i.i.d. Rademacher variables ($\pm 1$ with equal probability).
+	- if $y=1$, choose a random column $j \in [d]$ and replace the elements in this column with $b$ randomly drawn i.i.d. Bernoulli RV.
 	- if $y=0$, we leave the block intact
 	- send the block as $x$ and $y$ as the label.
 
-Model
+### Model
 To motivate our construction we make the following observations:
 - The rows of negative examples ($y=0$) are balanced, i.e., sum to $0$. 
-- On the other hand, positive examples's rows are either positive or negative with equal pwe expect half of its rows to be balanced and the rest unbalanced. 
-- Therefore, by summing over the features, taking absolute value and averaging over the block rows, we can distinguish between positive and negative examples.
+- On the other hand, positive examples's rows are either positive or negative with equal probability. 
+- Therefore, by summing over the features, taking absolute value and averaging over the block rows, we should be able to distinguish between positive and negative examples.
 - We therefore consider the following model:
 
 ```python
@@ -58,6 +59,15 @@ $$
 
 
 
-## Results
+### Results
 
 ![](https://i.imgur.com/h8siktL.png)
+
+
+
+
+### Questions
+
+
+> [!question] Does Embedding Help?
+> Does Embedding Help in this case?
