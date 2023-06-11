@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- highly variable genes<br>- Jeremy: maybe fixed small representation with different genes
+- [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- [[Ranking Genes for Permutations|highly variable genes]]<br>- Jeremy: maybe fixed small representation with different genes
 - [ ] ### synthetic data
 
 
