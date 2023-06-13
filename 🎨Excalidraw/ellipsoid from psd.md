@@ -8,13 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
-in 2 dims:
- ^4A3ucG6U
-
 
 # Embedded files
 86fd8c41d7287e8ec00e7f9145ee7c8ca0129dc6: $$A = U D U^\top = \sum_{i=1}^d \lambda_i u_i u_i^\top$$
-a04aba5e141772ed52977e47aeaf6d39c444d3d7: $$\{x:~x^\top A^{-1} x\} \le 1$$
+a04aba5e141772ed52977e47aeaf6d39c444d3d7: $$\left \{x:~x^\top A^{-1} x \le 1  \right\} = \left\{\sum \alpha_i \sqrt{\lambda_i} u_i:~~\alpha_1^2 + \alpha_2^2 \le 1 \right\}$$
 
 %%
 # Drawing
@@ -57,45 +54,9 @@ a04aba5e141772ed52977e47aeaf6d39c444d3d7: $$\{x:~x^\top A^{-1} x\} \le 1$$
 			]
 		},
 		{
-			"type": "text",
-			"version": 14,
-			"versionNonce": 1014798697,
-			"isDeleted": false,
-			"id": "4A3ucG6U",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": -409.9916095344388,
-			"y": -267.0224609375,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 92.07992553710938,
-			"height": 50,
-			"seed": 1824651207,
-			"groupIds": [],
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1686665677616,
-			"link": null,
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "in 2 dims:\n",
-			"rawText": "in 2 dims:\n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "in 2 dims:\n",
-			"lineHeight": 1.25,
-			"baseline": 43
-		},
-		{
 			"type": "image",
-			"version": 1,
-			"versionNonce": 671971719,
+			"version": 162,
+			"versionNonce": 1075950759,
 			"isDeleted": false,
 			"id": "TKuFLBJt",
 			"fillStyle": "hachure",
@@ -104,17 +65,17 @@ a04aba5e141772ed52977e47aeaf6d39c444d3d7: $$\{x:~x^\top A^{-1} x\} \le 1$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -430.6146564094388,
-			"y": -206.8857421875,
+			"x": -426.73178271018674,
+			"y": -198.5709649034708,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 130,
-			"height": 18,
+			"width": 396.5057369764958,
+			"height": 31.077476681941558,
 			"seed": 55367,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1686665740767,
+			"updated": 1686665998320,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -140,10 +101,10 @@ a04aba5e141772ed52977e47aeaf6d39c444d3d7: $$\{x:~x^\top A^{-1} x\} \le 1$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 530.9916095344388,
-		"scrollY": 396.5224609375,
+		"scrollX": 711.677248117875,
+		"scrollY": 618.06494140625,
 		"zoom": {
-			"value": 2
+			"value": 1
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
