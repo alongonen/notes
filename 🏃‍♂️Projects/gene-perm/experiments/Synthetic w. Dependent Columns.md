@@ -7,10 +7,10 @@ config: synthetic2
 ## Gene-Perm Synthetic Data
 
 ### Data Generation
-- We create a $\{0,1\}^{m \times d}$ matrix as follows:
-- For each row, we put $+1$ in random $d/2$ columns (chosen uniformly without replacement). In the rest of the columns we put $0$. 
+- We create a $\{-1,1\}^{m \times d}$ matrix as follows:
+- For each row, we put $+1$ in random $d/2$ columns and $-1$ in the rest.
 - A single input example is generated as follows:
-	- select a block consisting of $b$ random rows.
+	- select a *block* consisting of $b$ random rows.
 	- choose a random binary label $y \in \{0,1\}$. 
 	- if $y=1$, choose a random column $j \in [d]$ and replace the elements in this column with $b$ randomly drawn i.i.d. Bernoulli RV.
 	- if $y=0$, we leave the block intact
@@ -62,11 +62,13 @@ $$
 ### Results
 
 
-#### D
+#### Single Hidden Layer
+
+- Dim=100
 ![](https://i.imgur.com/Mc5M3wy.png)
 
 
-
+- Dim=300
 
 ![](https://i.imgur.com/DJTE5oE.png)
 
