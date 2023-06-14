@@ -1,11 +1,15 @@
 
-## Experiments with Synthetic Data
+## Motivation
 
-**Goal**: create synthetic data corresponding to several regimes of interest in order to test the design choices. ^4e5faa
+**Goal**: create synthetic data corresponding to several regimes of interest in order to understand the design choices with respect to the model and the data.
 
-1. Blocks: create a dataset confirming the necessity of blocks ^61b025
+1. Blocks: create a dataset confirming the necessity of (large enough) blocks 
 2. Columns: create a dataset confirming the necessity of viewing additional columns/genes besides the target gene.
-3. Embedding layer: 
+3. Embedding layer: Does it help identifying the target gene?
 
 
-![[perm-gen synthetic.pdf]]
+
+
+
+
+## Other
