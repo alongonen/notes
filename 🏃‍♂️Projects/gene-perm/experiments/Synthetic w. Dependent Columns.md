@@ -1,7 +1,7 @@
 ---
 tags: experiment
 wandb: 
-config: synthetic2
+config: synthetic-dep-cols
 ---
 
 ## Gene-Perm Synthetic Data
