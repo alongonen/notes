@@ -7,15 +7,14 @@ kanban-plugin: basic
 ## In Progress
 
 - [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- [[Ranking Genes for Permutations|highly variable genes]]<br>- Jeremy: maybe fixed small representation with different genes
-- [ ] ### synthetic data
-- [ ] ### forward<br>```python<br># TODO: ?????  <br># if i == 0:  <br>#     x = torch.mean(x, dim=1)  <br># if self.use_embed:  <br>#     x = torch.cat([x, self.embedding_layer(primary_gene)], dim=1)<br>```
+- [ ] ### synthetic data<br>- questions in [[Synthetic w. Dependent Columns]]
+- [ ] ### Gaussian Synthetic
 
 
 ## Next
 
 - [ ] ### Additional datasets (sciplex?)
 - [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
-- [ ] ### ddp with more gpus
 - [ ] ### No Order<br>permute examples to discard positions?
 
 
@@ -23,6 +22,7 @@ kanban-plugin: basic
 
 - [ ] ### sweep<br>- wandb integration<br>- from config
 - [ ] ### embeddings vs finetuning
+- [ ] ### ddp with more gpus
 - [ ] ### structured config<br>allows boolean conditions (e.g. `use_embed` depend on `baseline_mode`)
 
 
