@@ -1,5 +1,5 @@
 ---
-tags: experiments
+tags: experiment
 wandb: 
 config: synthetic2
 ---
