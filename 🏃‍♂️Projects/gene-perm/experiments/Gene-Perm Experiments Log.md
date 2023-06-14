@@ -1,5 +1,5 @@
 ```dataview
-TABLE file.name AS "NAME", wandb from #experiment
+TABLE wandb, settings from #experiment
 ```
 
 
