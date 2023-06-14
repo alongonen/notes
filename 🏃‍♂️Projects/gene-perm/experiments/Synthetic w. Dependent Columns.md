@@ -61,14 +61,14 @@ $$
 
 ### Results
 
-![](https://i.imgur.com/h8siktL.png)
 
-
-
-
-
+#### D
 ![](https://i.imgur.com/Mc5M3wy.png)
 
+
+
+
+![](https://i.imgur.com/DJTE5oE.png)
 
 
 ### Questions
