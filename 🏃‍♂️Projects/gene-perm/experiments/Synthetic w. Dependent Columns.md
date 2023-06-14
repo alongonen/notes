@@ -63,6 +63,9 @@ y_pred = nn.Sigmoid()(x)
 > Does Embedding Help in this case?
 
 
+> [!question] Why adding more layers seem to hurt?
+> 
+
 ## Appendix
 
 ### Differentiation
