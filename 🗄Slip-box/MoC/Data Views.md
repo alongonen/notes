@@ -2,11 +2,11 @@
 ## Questions
 ```dataviewjs
 // You can update this to filter as you like - filtering for just your daily notes would be good
-const pages = dv.pages()
+const pages = dv.pages("🏃‍♂️Projects/")
 
 // This regex will find the contents of a specifically formatted callout
 // const regex = 
-const regex = />\s\[\!question\]\s(.+?)\s.+\#(.+?)((\n>\s.*?)*)\n/
+const regex = />\s\[\!question\]\s(.+?)\s\#(.+?)((\n>\s.*?)*)\n/
 
 const rows = []
 for (const page of pages) {

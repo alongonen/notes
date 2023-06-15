@@ -1,5 +1,5 @@
 
-> [!question] How should we categorize notes?
+> [!question] How should we categorize notes?   #someday 
 > - What do we want to achieve by categorizing? 
 > - What are the underlying categories? Subjects vs. note types?
 > - Tags vs. Folders vs. MOC.

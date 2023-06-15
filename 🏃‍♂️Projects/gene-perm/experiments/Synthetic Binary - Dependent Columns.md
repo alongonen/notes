@@ -59,12 +59,12 @@ y_pred = nn.Sigmoid()(x)
 ### Questions
 
 
-> [!question] Does Embedding Help?
+> [!question] Does Embedding Help?  #next 
 > Does Embedding Help in this case?
 
 
-> [!question] Why adding more layers seem to hurt?
-> 
+> [!question] Why adding more layers seem to hurt?      #next
+>  Wrong architecture?
 
 ## Appendix
 
