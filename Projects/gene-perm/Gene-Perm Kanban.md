@@ -6,9 +6,11 @@ kanban-plugin: basic
 
 ## In Progress
 
+- [ ] ### Verify DataLoader @{2023-06-19}
 - [ ] ### to consider <br>- one-hot / fixed embeddings / nothing<br>- [[Ranking Genes for Permutations|highly variable genes]]<br>- Jeremy: maybe fixed small representation with different genes
 - [ ] ### synthetic data<br>- questions in [[Synthetic Binary - Dependent Columns]]
 - [ ] ### Gaussian Synthetic
+- [ ] ### Finish MLP<br>- [no activations in last hidden and classifier?](https://github.com/facebookresearch/multimodal/blob/5dec8a/torchmultimodal/modules/layers/mlp.py)<br>- classifier + sidmoid should be part of the MLP
 
 
 ## Next
@@ -16,6 +18,7 @@ kanban-plugin: basic
 - [ ] ### Additional datasets (sciplex?)
 - [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
 - [ ] ### No Order<br>permute examples to discard positions?
+- [ ] ### Differentiable Pooling
 
 
 ## Someday
