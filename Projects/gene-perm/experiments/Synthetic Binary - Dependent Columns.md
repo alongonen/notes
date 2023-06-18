@@ -1,6 +1,5 @@
 ---
 tags: experiment
-
 wandb: 
 config: synthetic-dep-cols
 ---
@@ -59,8 +58,9 @@ y_pred = nn.Sigmoid()(x)
 ### Questions
 
 
-> [!question] Does Embedding Help?  #next 
+> [!question] Does Embedding Help?   #next 
 > Does Embedding Help in this case?
+
 
 
 > [!question] Why adding more layers seem to hurt?      #next
