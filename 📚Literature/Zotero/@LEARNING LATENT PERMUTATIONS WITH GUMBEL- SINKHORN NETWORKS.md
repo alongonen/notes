@@ -17,6 +17,6 @@ notes:
 ## Questions
 
 
-> [!question] Loss Function
+> [!question] Loss Function #next
 > What is the loss function in the general case?
 
