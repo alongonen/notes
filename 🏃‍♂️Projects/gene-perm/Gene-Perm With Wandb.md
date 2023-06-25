@@ -10,7 +10,7 @@
 > How to divide experiments / subprojects?  
 
  
-> [!question] How to use reports?   #someday
+> [!question] How to use reports?  #someday  
 > use reports? Copy to obsidian?
 
 
