@@ -29,4 +29,5 @@ dv.table(['Term', 'Link'], rows)
 
 `$=dv.current().file.folder`
 
-`=$dv.pages(`dv.current().file.folder}`)`
+`$=dv.pages(`"${dv.current().file.folder}"`)`
+
