@@ -14,3 +14,6 @@
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+
+# Ignore Smart Connections folder because embeddings file is large and updated frequently
+.smart-connections
