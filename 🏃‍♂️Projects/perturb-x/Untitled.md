@@ -24,8 +24,9 @@ for (const page of pages) {
 dv.table(['Term', 'Link'], rows)
 ```
 
-```dataviewjs
-dv.pages(this.file.folder)
-```
 
 `$= dv.current().file.mtime`
+
+`$=dv.current().file.folder`
+
+`=$dv.pages(`dv.current().file.folder}`)`
