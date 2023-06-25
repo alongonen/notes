@@ -31,14 +31,17 @@ dv.table(['Term', 'Link'], rows)
 
 
 
-`$= dv.current().file.mtime`
+---
 
 
 
 ```dataviewjs 
 let pg = dv.current()
-let parentFolder = pg.file.folder 
-const pages = dv.pages()
-dv.header(3, parentFolder)
+//let parentFolder = pg.file.folder
+// const pages = dv.pages('parentFolder')
+//dv.list(dv.pages()file.name.where(p => p.text == "🏃‍♂️Projects/gene-perm"))
+
+dv.list(dv.pages().file.where(t => t.text.includes("i")))
+//dv.header(3, parentFolder)
 ```
 
