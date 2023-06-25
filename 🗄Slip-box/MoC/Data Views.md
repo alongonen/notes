@@ -21,7 +21,6 @@ for (const callout of contents.match(new RegExp(regex, 'sg')) || []) {
 } 
 dv.table(['Term', 'Flag', 'Link'], rows)
 ```
-
 ## Questions for Lit Notes
 
 ```dataviewjs
