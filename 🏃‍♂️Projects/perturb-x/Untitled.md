@@ -9,8 +9,8 @@ let parentFolder = dv.current().file.folder
 const lsFolder = app.vault.getFiles().filter(file => file.parent.path == parentFolder).map(file => dv.fileLink(file.path)) 
 
 
-//const pages = dv.pages('"${dv.current().file.folder}"')
-const pages = dv.pages('parentFolder')
+const pages = dv.pages('"${dv.current().file.folder}"')
+//const pages = dv.pages('parentFolder')
 
 // This regex will find the contents of a specifically formatted callout
 const regex = />\s\[\!question\]\s(.+?)\s\#next/
@@ -36,9 +36,9 @@ dv.table(['Term', 'Link'], rows)
 
 
 ```dataviewjs 
-let pg = dv.current();
+let pg = dv.current()
 let parentFolder = pg.file.folder 
-
+const pages = dv.pages()
 dv.header(3, parentFolder)
 ```
 
