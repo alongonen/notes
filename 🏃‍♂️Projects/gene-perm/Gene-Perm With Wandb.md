@@ -6,14 +6,16 @@
 
 
 
-> [!question] Subprojects  #next
+> [!question] Subprojects?  #next
 > How to divide experiments / subprojects?  
 
 
-dsd
- 
-> [!question] How to use reports? #someday   
-> Use reports? Copy to obsidian?
+## edwfsd
 
+
+
+
+> [!question] How to use reports?
+> Contents
 
 
