@@ -33,3 +33,22 @@ tags: setting
 - $b$: block size
 - $x$: a block, i.e. a matrix of size $b \times d$
 - $y$: each $x$
+
+
+
+
+## Some
+
+how permutations are used in machine learning
+
+Permutations are used in machine learning in various ways:
+
+1. Feature Engineering: Permutations can be used to generate new features or transform existing ones to improve the predictive power of a model. For example, feature permutation importance is a technique that computes the importance of each feature in a model by permuting its values and measuring the decrease in performance.
+
+2. Ensemble Methods: Permutations can be used to create ensembles of models that have different permutations of the training data or features. This helps to reduce overfitting and improve generalization.
+
+3. Hyperparameter Tuning: Permutations can be used to search for optimal hyperparameters for a model. This involves creating multiple permutations of hyperparameters and evaluating their performance on a validation set.
+
+4. Data Augmentation: Permutations can be used to augment the training data by generating new instances through random permutations or shuffling.
+
+5. Reinforcement Learning: Permutations can be used as actions in reinforcement learning algorithms where the goal is to learn a policy that maximizes rewards over time. The agent selects actions based on permutations of the state space and learns from the resulting rewards.
