@@ -8,5 +8,5 @@
 
 
 
-> [!question] Title?  #someday 
+> [!question] Title #someday 
 > Contents
