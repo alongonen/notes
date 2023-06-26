@@ -1,7 +1,3 @@
-## Next Questions
-
-
-## Questions for projects
 ```dataviewjs
 // You can update this to filter as you like - filtering for just your daily notes would be good
 
@@ -37,22 +33,3 @@ dv.table(['Term', 'Link'], rows1)
 dv.header(3, "Someday Questions")
 dv.table(['Term', 'Link'], rows2)
 ```
-
-
-
----
-
-
-
-```dataviewjs 
-let pg = dv.current()
-let parentFolder = pg.file.folder
-// const pages = dv.pages('parentFolder')
-//dv.list(dv.pages()file.name.where(p => p.text == "🏃‍♂️Projects/gene-perm"))
-
-let pages = dv.pages().where(p => p.file.folder.includes(parentFolder))
-dv.list(pages.file.name)
-
-```
-
-
