@@ -10,8 +10,8 @@ let pages = dv.pages().where(p => p.file.folder.includes(parentFolder))
 
 // This regex will find the contents of a specifically formatted callout
 const regex = />\s\[\!question\]\s+?(.+?)\s+\#next/
-const regex = />\s\[\!question\]\s+?(.+?)\s+?\#someday/
 
+for (reg )
 const rows = []
 for (const page of pages) {
     const file = app.vault.getAbstractFileByPath(page.file.path)
