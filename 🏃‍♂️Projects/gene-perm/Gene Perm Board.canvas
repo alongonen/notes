@@ -1,13 +1,14 @@
 {
 	"nodes":[
-		{"type":"group","id":"03a58a24b0eb2616","x":-2720,"y":-1120,"width":1000,"height":946,"color":"3","label":"Questions"},
-		{"type":"group","id":"f0fa24ef57869097","x":-920,"y":-1040,"width":440,"height":1500,"color":"5","label":"Considerations"},
-		{"type":"group","id":"0a99dda60c1eddd6","x":-1600,"y":-1120,"width":581,"height":634,"label":"Initial Setting"},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":-900,"y":-500,"width":400,"height":326},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-1579,"y":-770,"width":400,"height":224},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-900,"y":-970,"width":400,"height":400},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-1579,"y":-1066,"width":400,"height":234},
-		{"id":"e4c4dc164d920978","x":-2640,"y":-1040,"width":840,"height":703,"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-perm Questions.md"}
+		{"type":"group","id":"03a58a24b0eb2616","x":-3889,"y":-1840,"width":2689,"height":1240,"color":"3","label":"Agenda"},
+		{"type":"group","id":"f0fa24ef57869097","x":-2660,"y":280,"width":440,"height":1500,"color":"5","label":"Considerations"},
+		{"type":"group","id":"0a99dda60c1eddd6","x":-3480,"y":396,"width":581,"height":634,"label":"Initial Setting"},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":-2640,"y":820,"width":400,"height":326},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-2640,"y":350,"width":400,"height":400},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-3459,"y":746,"width":400,"height":224},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-3459,"y":450,"width":400,"height":234},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-perm Questions.md","id":"e4c4dc164d920978","x":-3689,"y":-1759,"width":880,"height":760},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Kanban.md","id":"8c69e101dfecc579","x":-2710,"y":-1714,"width":1181,"height":715}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}
