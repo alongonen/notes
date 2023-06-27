@@ -30,6 +30,7 @@ kanban-plugin: basic
 
 
 ## Inbox
+- [ ] pretrain vs. fixed embeddings ^073d2e
 - [ ] contrastive ^271a4c
 
 
