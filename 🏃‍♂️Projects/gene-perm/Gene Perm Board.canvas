@@ -8,7 +8,7 @@
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-3459,"y":746,"width":400,"height":224},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-3459,"y":450,"width":400,"height":234},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-perm Questions.md","id":"e4c4dc164d920978","x":-3689,"y":-1759,"width":880,"height":760},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Kanban.md","id":"8c69e101dfecc579","x":-2710,"y":-1714,"width":1181,"height":715}
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Kanban.md","id":"8c69e101dfecc579","x":-2710,"y":-1714,"width":1181,"height":715}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}

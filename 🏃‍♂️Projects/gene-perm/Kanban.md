@@ -30,7 +30,7 @@ kanban-plugin: basic
 
 
 ## Inbox
-- [ ] contrastive
+- [ ] contrastive ^271a4c
 
 
 

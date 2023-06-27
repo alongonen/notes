@@ -1,6 +1,8 @@
 
 ## High Level Reasoning
 
+^be39b7
+
 - do we want to find universal or condition specific embeddings?
 - Currently, no
 - Potential considerations:
