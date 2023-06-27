@@ -29,7 +29,13 @@ kanban-plugin: basic
 - [ ] ### structured config<br>allows boolean conditions (e.g. `use_embed` depend on `baseline_mode`)
 
 
-***
+## Inbox
+- [ ] contrastive
+
+
+
+
+---
 
 ## Archive
 
@@ -37,6 +43,8 @@ kanban-plugin: basic
 - [x] ### recall status and update missing reports @{2023-05-22}
 - [x] ### new setup <br>[[gene-perm modeling.canvas]]
 - [x] delete code<br>- ~~one of the data creation file~~
+
+
 
 %% kanban:settings
 ```
