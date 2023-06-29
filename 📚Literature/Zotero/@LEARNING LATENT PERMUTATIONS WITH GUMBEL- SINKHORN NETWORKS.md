@@ -14,6 +14,10 @@ notes:
 
 
 
+
+## Code
+- [Lightning](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/sampling/permutations.html)
+
 ## Questions
 
 
