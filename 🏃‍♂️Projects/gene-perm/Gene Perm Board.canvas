@@ -9,9 +9,9 @@
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-1980,"y":-90,"width":400,"height":282},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-3868,"y":190,"width":400,"height":224},
 		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-3868,"y":-106,"width":400,"height":234},
-		{"id":"a7967f731d805c79","x":-1168,"y":-15,"width":348,"height":66,"type":"text","text":"which gene should we permute?"},
-		{"id":"cb699d038fa26864","x":-1306,"y":134,"width":250,"height":60,"type":"text","text":"learn permutation vs. binary classification"},
-		{"id":"b037d9a380eac3c6","x":-1033,"y":191,"width":250,"height":60,"type":"text","text":"fixed embeddings vs pretrain"}
+		{"type":"text","text":"which gene should we permute?","id":"a7967f731d805c79","x":-1168,"y":-15,"width":348,"height":66},
+		{"type":"text","text":"learn permutation vs. binary classification","id":"cb699d038fa26864","x":-1306,"y":134,"width":250,"height":60},
+		{"type":"text","text":"fixed embeddings vs pretrain","id":"b037d9a380eac3c6","x":-1033,"y":191,"width":213,"height":50}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}
