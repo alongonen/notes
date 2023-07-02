@@ -17,6 +17,7 @@ tags: setting
 	- select a *block* consisting of $b$ random rows.
 	- choose a random binary label $y \in \{0,1\}$. 
 	- if $y=1$, choose a permutation over a (predefined parameterized) fraction of the genes and permute the columns of $x$ accordingly.  [[Kanban#^48c179|| should we permute only observed or decoy]]
+	- 
 
 
 
