@@ -9,15 +9,16 @@ tags: setting
 - Therefore, the entire data can be described by a matrix whose rows correspond to single cells, and its columns correspond to **genes**.
 - Show both 
 - We aggregate several single cells (rows) into *blocks* of size $b$.
-- We often restrict the dimensionality restrict the input of the model to $d\ll n$ (fixed) columns (genes).
+- We restrict the dimensionality to $d\ll n$ (fixed) columns. This usually corresponds to dominant genes.
 
 
 ## Data Generation
 - A single input example is a triplet $(x,y,g)$ which is generated as follows:
 	- select a *block* consisting of $b$ random rows.
 	- choose a random binary label $y \in \{0,1\}$. 
-	- if $y=1$, choose a random column $g \in [d]$ and replace the block's $g$-th with another column (possibly from the entire set of $n>d$ genes)
-	- if $y=0$, we leave the block intact
+	- if $y=1$, choose a permutation over a (predefined parameterized) fraction of the genes and permute the columns of $x$ accordingly.  [[Kanban#^48c179|| should we permute only observed or decoy]]
+
+
 
 
 

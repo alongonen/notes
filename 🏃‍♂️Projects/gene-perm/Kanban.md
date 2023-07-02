@@ -19,6 +19,7 @@ kanban-plugin: basic
 - [ ] ### conditions<br>[[How Conditions Are Relevant For Permutations?]]
 - [ ] ### No Order<br>permute examples to discard positions?
 - [ ] ### Differentiable Pooling
+- [ ] general permutation over observed/all genes ^48c179
 
 
 ## Someday
@@ -30,13 +31,12 @@ kanban-plugin: basic
 
 
 ## Inbox
+
 - [ ] pretrain vs. fixed embeddings ^073d2e
 - [ ] contrastive ^271a4c
 
 
-
-
----
+***
 
 ## Archive
 
@@ -44,8 +44,6 @@ kanban-plugin: basic
 - [x] ### recall status and update missing reports @{2023-05-22}
 - [x] ### new setup <br>[[gene-perm modeling.canvas]]
 - [x] delete code<br>- ~~one of the data creation file~~
-
-
 
 %% kanban:settings
 ```
