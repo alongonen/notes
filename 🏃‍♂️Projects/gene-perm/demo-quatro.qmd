@@ -4,6 +4,8 @@ format:
     html: 
         code-fold: True
 jupyter: python3
+editor:
+  render-on-save: true
 ---
 
 For a demonstration of a line plot on a polar axis, see @fig-polar.
@@ -25,3 +27,12 @@ ax.set_rticks([0.5, 1, 1.5, 2])
 ax.grid(True)
 plt.show()
 ```
+
+
+## Polar Axis
+
+For a demonstration of a line plot on a polar axis, see @fig-polar. 
+
+$$
+\sum x_i + z
+$$
