@@ -8,14 +8,6 @@ tags: setting
 
 
 ## Decoy Genes
-The random column $j$ is chosen from the set of $n-d$ unobserved genes.
+- If $y=1$, choose a random column $g \in [d]$ and replace the block's $g$-th column with a random column $j$.
+- The random column $j$ is chosen from the set of $n-d$ unobserved genes.
 
-
-
-## Notation
-
-- $d$: (observable) dimension 
-- $m$: number of samples (might be train/val/entire data depending on the context)
-- $b$: block size
-- $x$: a block, i.e. a matrix of size $b \times d$
-- $y$: each $x$
