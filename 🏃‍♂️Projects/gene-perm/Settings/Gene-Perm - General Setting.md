@@ -28,4 +28,8 @@ Different settings correspond to different permutation mechanisms
 > [!question] Memorization #next
 > Each example appears many times both in positive and negative blocks. This allows memorization. How can we avoid that?
 
+^a031a2
+
+
+
 
