@@ -10,10 +10,13 @@ kanban-plugin: basic
 
 ## Next
 
+- [ ] code with wandb
 
 
 ## Someday
 
+- [ ] readwise
+- [ ] inbox collection
 
 
 ## Inbox
