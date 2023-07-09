@@ -26,9 +26,13 @@ plt.show()
 import pandas as pd
 df = pd.DataFrame({'Animal': ['Falcon', 'Falcon','Parrot', 'Parrot'],
 				   'Max Speed': [380., 370., 24., 26.]})
-print(df)
-x = df.groupby('Animal')
-print(x)
+# print(df)
+x = df.groupby(['Animal', 'Max Speed'])
+for a,b in x:
+	print(a)
+	print("**")
+	print(b)
+	print("\n\n\n")
 
 ```
 
