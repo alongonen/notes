@@ -1,12 +1,14 @@
 {
 	"nodes":[
-		{"id":"b3dd1b9de1eb4cb3","x":-680,"y":-338,"width":360,"height":138,"type":"group","label":"Templates"},
-		{"id":"0da6de01d7d10964","x":-680,"y":-660,"width":290,"height":170,"type":"group","label":"WANDB"},
-		{"type":"text","text":"[wandb update config](https://docs.wandb.ai/guides/integrations/hydra)","id":"10893b7c9e2b0375","x":-660,"y":-640,"width":250,"height":60},
-		{"type":"text","text":"## External Templates\n[hydra+lightning+optuna](https://github.com/ashleve/lightning-hydra-template)","id":"577b4892395fc584","x":-660,"y":-318,"width":300,"height":99},
-		{"type":"text","text":"## Sweeps\n- [[Sweep Hyperparmeters with GRID-AI]]\n- [[Hyperparameter Optimization with Sweeps]]","id":"0057b54b977a4781","x":0,"y":-640,"width":391,"height":260},
-		{"type":"text","text":"[COLAB - WANDB API](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/jupyter/Interactive_W%26B_Charts_Inside_Jupyter.ipynb#scrollTo=Ivfi_7vF7dts)","id":"0246c6dde64c28ef","x":-649,"y":-566,"width":239,"height":56},
-		{"type":"text","text":"## Lightning Resources\n\n[[Pytorch Lightning Fit Structure]]\n\n","id":"a2ed7ebee4029156","x":-104,"y":-140,"width":300,"height":120}
+		{"type":"group","id":"0da6de01d7d10964","x":-680,"y":-1040,"width":300,"height":400,"label":"WANDB"},
+		{"type":"group","id":"b3dd1b9de1eb4cb3","x":-300,"y":-1040,"width":360,"height":138,"label":"Templates"},
+		{"id":"3f077c0a53172e1d","x":110,"y":-762,"width":400,"height":400,"type":"file","file":"🗄Slip-box/Pytorch Lightning Fit Structure.md"},
+		{"type":"file","file":"🗄Slip-box/Hyperparameter Optimization with Sweeps.md","id":"e0d93bcd7f86a8c7","x":-660,"y":-1010,"width":250,"height":110},
+		{"type":"text","text":"[wandb update config](https://docs.wandb.ai/guides/integrations/hydra)","id":"10893b7c9e2b0375","x":-660,"y":-860,"width":250,"height":60},
+		{"type":"text","text":"[COLAB - WANDB API](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/jupyter/Interactive_W%26B_Charts_Inside_Jupyter.ipynb#scrollTo=Ivfi_7vF7dts)","id":"0246c6dde64c28ef","x":-660,"y":-760,"width":239,"height":56},
+		{"type":"text","text":"## External Templates\n[hydra+lightning+optuna](https://github.com/ashleve/lightning-hydra-template)","id":"577b4892395fc584","x":-280,"y":-1020,"width":300,"height":99},
+		{"type":"file","file":"🗄Slip-box/DDP on A Single Node.md","id":"f661cef364f0063b","x":-680,"y":-480,"width":400,"height":400},
+		{"type":"text","text":"## Lightning Resources\n\n[[Pytorch Lightning Fit Structure]]\n\n","id":"a2ed7ebee4029156","x":-80,"y":-140,"width":300,"height":120}
 	],
 	"edges":[]
 }
