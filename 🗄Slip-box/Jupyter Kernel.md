@@ -28,4 +28,4 @@ Edit the `display_name` property in the **kernel.json** file and it will cha
 [resource](https://stackoverflow.com/questions/45085233/jupyter-kernel-is-there-a-way-to-rename-them)
 
 
-[[§Model Template.canvas|§Model Template]]
+[[§TORCH INFRA.canvas|§Model Template]]
