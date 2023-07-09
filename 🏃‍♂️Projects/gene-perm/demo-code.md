@@ -22,5 +22,15 @@ plt.show()
 ```
 
 
+```python
+import pandas as pd
+df = pd.DataFrame({'Animal': ['Falcon', 'Falcon','Parrot', 'Parrot'],
+				   'Max Speed': [380., 370., 24., 26.]})
+print(df)
+x = df.groupby('Animal')
+print(x)
+
+```
+
 
 
