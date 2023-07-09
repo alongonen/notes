@@ -1,14 +1,4 @@
 
-```js
-function hello(name) {
-	console.log(`Hello ${name}!`);
-}
-
-hello("Bob")
-```
-
-
-
 
 ```python
 import seaborn as sns
