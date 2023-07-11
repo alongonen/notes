@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"965db396dc4db5f8","x":-826,"y":-528,"width":606,"height":408,"type":"text","text":"- $X = [a,b] \\subseteq \\mathbb{R}$ \n- $f: X \\rightarrow Y$ is a low degree polynomial, say "}
+	],
+	"edges":[]
+}

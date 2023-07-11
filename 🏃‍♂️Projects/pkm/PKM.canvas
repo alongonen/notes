@@ -8,14 +8,15 @@
 		{"type":"text","text":"store knowledge (second brain)","id":"1382a28748b9823a","x":-450,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"tool for thinking","id":"8539e1b7d349c545","x":-750,"y":-360,"width":250,"height":60},
 		{"type":"text","text":"Express","id":"f561ecfb64e07cfe","x":-450,"y":-260,"width":250,"height":60},
-		{"type":"file","file":"🗄Slip-box/What Should Be in A Note?.md","id":"b611c9015f2f73da","x":-760,"y":100,"width":300,"height":197},
-		{"type":"file","file":"🗄Slip-box/Structure of PKM.md","id":"256cbe3082e06d9f","x":-380,"y":112,"width":222,"height":78},
 		{"type":"file","file":"🗄Slip-box/Second Brain is Overrated.md","id":"a1614c5240325922","x":40,"y":-260,"width":300,"height":100},
 		{"type":"text","text":"Distracting and requires maintenence","id":"ac25ab09091439bc","x":40,"y":-360,"width":250,"height":60},
+		{"type":"file","file":"🗄Slip-box/What Should Be in A Note?.md","id":"b611c9015f2f73da","x":-760,"y":100,"width":300,"height":197},
+		{"type":"file","file":"🗄Slip-box/Structure of PKM.md","id":"256cbe3082e06d9f","x":-380,"y":112,"width":222,"height":78},
 		{"type":"text","text":"## Features\n- iOS sync\n- esthetic\n- latex and markdown \n- OCR\n","id":"cc23f8f7668eeb9f","x":-33,"y":82,"width":198,"height":327},
 		{"type":"text","text":"reliance on plugins & intergrations","id":"3eb4669989847dde","x":190,"y":217,"width":220,"height":80},
 		{"type":"text","text":"reliance on handwritten notes","id":"7c101c40700802bb","x":190,"y":329,"width":212,"height":80},
-		{"type":"text","text":"one tool vs. specialized tools","id":"c01d146fd659c10e","x":190,"y":110,"width":220,"height":80}
+		{"type":"text","text":"one tool vs. specialized tools","id":"c01d146fd659c10e","x":190,"y":110,"width":220,"height":80},
+		{"id":"6353f0d64c58e3d1","x":-810,"y":-880,"width":200,"height":200,"type":"text","text":"Slide:\n- b611c9015f2f73da\n- 23aa0977b6f596df\n- a66f01fc2db8ecd4\n"}
 	],
 	"edges":[]
 }
