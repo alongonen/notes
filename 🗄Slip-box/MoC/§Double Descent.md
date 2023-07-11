@@ -4,4 +4,7 @@
 - [Grosse's notes](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/readings/L01_intro.pdf)
 - [Brady Neal's blog post](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) 
 	- [related paper](https://arxiv.org/pdf/1810.08591.pdf)
-	- 
+- [open ai blog](https://openai.com/research/deep-double-descent)
+- [deep double descent](https://mltheory.org/deep.pdf)
+- [less wrong](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
+- 
