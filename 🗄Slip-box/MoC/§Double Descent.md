@@ -7,4 +7,8 @@
 - [open ai blog](https://openai.com/research/deep-double-descent)
 - [deep double descent](https://mltheory.org/deep.pdf)
 - [less wrong](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
-- 
+
+
+
+
+x
