@@ -3,4 +3,5 @@
 - [First paper by Belkin](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)
 - [Grosse's notes](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/readings/L01_intro.pdf)
 - [Brady Neal's blog post](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) 
-- 
+	- [related paper](https://arxiv.org/pdf/1810.08591.pdf)
+	- 
