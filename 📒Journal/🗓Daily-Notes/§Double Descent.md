@@ -1,0 +1,5 @@
+
+- [Blog Bach](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)
+- [First paper by Belkin](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)
+- [Grosse's notes](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/readings/L01_intro.pdf)
+- 

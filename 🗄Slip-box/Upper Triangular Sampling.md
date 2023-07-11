@@ -8,10 +8,10 @@ Instead of sampling from $A_n$ we sample from $B_n := \{1,\ldots,n(n+1)/2\}$ and
 
 Here's a straightforward bijection from $A_n$ to $B_n$. 
 $$
-f((i,j)) \mapsto S_{i-1}+j-i+1
+f((i,j)) = S_{i-1}+j-i+1
 $$
 where $S_0 = 0$ and for any $1 \le i \le n$, 
 $$
-S_i = n + (n-1) + \ldots + (n-i+1) = \frac{(n+n-i+1)(i-1)}{2}
+S_i = n + (n-1) + \ldots + (n-i+1) = \frac{i(n+n-i+1)}{2}
 $$
 How can we compute $f^{-1}$? Given $m \in B_n$, we first need to find the first index $i$ such that $S_{i-1}\le m \le S_i$. Using the definition of $S_i$, this amounts to finding the roots of a quadratic function (with the variable $i$). We then let $j = m - S_{i-1} + i - 1$. 
