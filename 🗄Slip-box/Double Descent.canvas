@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"- $X = [a,b] \\subseteq \\mathbb{R}$ \n\t- $f: X \\rightarrow Y$ is a low degree polynomial, say $f(x)=4(x-2.5)^2$","id":"965db396dc4db5f8","x":-826,"y":-528,"width":606,"height":408}
+		{"id":"5bf99c1371587ee5","x":-826,"y":-500,"width":606,"height":380,"type":"file","file":"🗄Slip-box/Double Descent One-Dim.md"}
 	],
 	"edges":[]
 }
