@@ -16,7 +16,7 @@ b676839ec8421dc9954be4716dd7c93b88ee38ba: $$w_2$$
 9cd1c649e3290db6b0b9869129596b20e7998ec6: $$x$$
 5cc3c7280933676599eddd8b3ca1daf4ec2f900e: $$\phi_d(x)$$
 32f8806399d6dc4136e1b3ae6dc59fcb9793dbfc: $$\phi_1(x)$$
-3fd8bc0a0d98a2f6b9c49ea78030c9e433c0abcf: $$\phi_2(x)$$
+3fd8bc0a0d98a2f6b9c49ea78030c9e433c0abcf: $$\phi_2(x)$$ ^d5e83d
 
 %%
 # Drawing
