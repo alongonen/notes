@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"5bf99c1371587ee5","x":-826,"y":-500,"width":606,"height":380,"type":"file","file":"🗄Slip-box/Double Descent One-Dim.md"}
+		{"type":"file","file":"🗄Slip-box/Double Descent One-Dim.md","id":"5bf99c1371587ee5","x":-826,"y":-500,"width":666,"height":480}
 	],
 	"edges":[]
 }
