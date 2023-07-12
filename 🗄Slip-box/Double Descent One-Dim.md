@@ -7,6 +7,8 @@
 
 ![](https://i.imgur.com/IAUndgH.png)
 
-- Model: a shallow neural net with one hidden layer.
+- Model: we will fit a linear regressor to random features of the data. 
+- Formally, consider linear model applied to random features inject non-linearity in a random fashion and a shallow neural net with one hidden layer.
   
-  $$x \mapsto w^\top (\phi_1(x), \ldots, \phi_d(x))$$where
+  $$x \mapsto w^\top (\phi_1(x), \ldots, \phi_d(x))$$where $\phi_i$ has the form $\phi(x)=|x-t_i|$ for randomly chosen threshold $t_i$. 
+- 
