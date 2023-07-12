@@ -7,3 +7,6 @@
 
 ![](https://i.imgur.com/IAUndgH.png)
 
+- Model: a shallow neural net with one hidden layer.
+  
+  $$x \mapsto w^\top (\phi_1(x), \ldots, \phi_d(x))$$where
