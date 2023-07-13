@@ -3,7 +3,6 @@
 		{"type":"group","id":"cea120ea5bad1b99","x":-3120,"y":-580,"width":2702,"height":1300,"label":"Basic Principles"},
 		{"type":"group","id":"ba24a2211b731645","x":-120,"y":-520,"width":1295,"height":902,"label":"Transposing by adding new axis"},
 		{"type":"group","id":"922eaf951f3915c7","x":-1040,"y":-78,"width":486,"height":405,"label":"same dimensions"},
-		{"type":"text","text":"```python\nM = np.ones(3,3)\na = np.array([0,1,2])\n```\n\n```\nM.shape = (3,3)\na.shape = (3,)\n```","id":"667fc243c0a6cfc4","x":-100,"y":-340,"width":476,"height":160},
 		{"type":"text","text":"```python\nM.shape = (3,3)\na.shape = (1,3)\n\n# a = np.array([0,1,2]) ->  a = np.array([[0, 1, 2 ]])\n```\n\n","id":"96f86407859f0df2","x":-2100,"y":-100,"width":742,"height":234},
 		{"type":"text","text":"## Padding\nRule 1: If the two arrays differ in their number of dimensions, the shape of the one with fewer dimensions is _padded_ with ones on its leading (left) side.\n","id":"006c337ce3abd2f5","x":-2968,"y":-500,"width":596,"height":242,"color":"3"},
 		{"type":"file","file":"♽Meta/📎Attachments/result.png","id":"3ff5afa9792db720","x":-2540,"y":382,"width":1343,"height":280},
@@ -11,11 +10,12 @@
 		{"type":"text","text":"## Stretching\n\nRule 2: If the shape of the two arrays does not match in any dimension, the array with shape equal to 1 in that dimension is stretched to match the other shape.","id":"62859389e0d54266","x":-2039,"y":-500,"width":802,"height":200,"color":"3"},
 		{"type":"text","text":"[resource](https://jakevdp.github.io/PythonDataScienceHandbook/02.05-computation-on-arrays-broadcasting.html)","id":"495e0cfac2acbe3d","x":-3085,"y":620,"width":354,"height":84},
 		{"type":"text","text":"## Success Conditions\nRule 3: If in any dimension the sizes disagree and neither is equal to 1, an error is raised","id":"bb1ecb4c846ccbaf","x":-1082,"y":-500,"width":528,"height":132,"color":"3"},
+		{"type":"text","text":"```python\nM.shape = (3,3)\na.shape = (3,3)\n```","id":"1942203cfb7e150c","x":-987,"y":-58,"width":338,"height":131},
+		{"type":"text","text":"```python\nM = np.ones(3,3)\na = np.array([0,1,2])\n```\n\n```\nM.shape = (3,3)\na.shape = (3,)\n```","id":"667fc243c0a6cfc4","x":-100,"y":-340,"width":476,"height":160},
 		{"type":"text","text":"```\nM + a = ?\n```","id":"0e242d45e9f55b4f","x":516,"y":244,"width":363,"height":60},
 		{"type":"text","text":"```\nM.shape = (3,3)\na.shape = (3,1)\n```","id":"a21881e3d8086537","x":837,"y":20,"width":297,"height":108},
 		{"type":"text","text":"```\na = a[:, np.newaxis]\n```\n","id":"733020383b472645","x":600,"y":-401,"width":339,"height":122},
-		{"type":"file","file":"♽Meta/📎Attachments/stretching.png","id":"fb14a8135b717954","x":-933,"y":102,"width":229,"height":195,"color":"4"},
-		{"type":"text","text":"```python\nM.shape = (3,3)\na.shape = (3,3)\n```","id":"1942203cfb7e150c","x":-987,"y":-58,"width":338,"height":131}
+		{"type":"file","file":"♽Meta/📎Attachments/stretching.png","id":"fb14a8135b717954","x":-933,"y":102,"width":229,"height":195,"color":"4"}
 	],
 	"edges":[
 		{"id":"c19f60f2efaf16f1","fromNode":"fb14a8135b717954","fromSide":"bottom","toNode":"3ff5afa9792db720","toSide":"top"},
