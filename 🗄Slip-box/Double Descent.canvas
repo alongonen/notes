@@ -1,9 +1,9 @@
 {
 	"nodes":[
 		{"type":"file","file":"🗄Slip-box/One-Dim Double Descent.md","id":"5bf99c1371587ee5","x":-1040,"y":-500,"width":586,"height":1000},
-		{"id":"150dbc80c35f43ed","x":-380,"y":-142,"width":400,"height":222,"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230712204018.png"},
-		{"id":"344a4ee1fe9abf5f","x":80,"y":-280,"width":619,"height":561,"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230712204001.png"},
-		{"id":"c172c9b34bf1ce0d","x":-654,"y":640,"width":654,"height":160,"type":"text","text":"Slide:\n- 5bf99c1371587ee5\n- 150dbc80c35f43ed\n- 344a4ee1fe9abf5f\n"}
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230712204018.png","id":"150dbc80c35f43ed","x":-380,"y":-142,"width":400,"height":222},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230712204001.png","id":"344a4ee1fe9abf5f","x":80,"y":-280,"width":619,"height":561},
+		{"type":"text","text":"Slide:\n- 5bf99c1371587ee5\n- 150dbc80c35f43ed\n- 344a4ee1fe9abf5f\n","id":"c172c9b34bf1ce0d","x":-654,"y":640,"width":654,"height":160}
 	],
 	"edges":[]
 }
