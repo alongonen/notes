@@ -8,7 +8,7 @@
 
 ## Modern ML
 
-![[🎨Excalidraw/double descent/bias-variance.md#^frame=kN2aDJNOKtWIG_hcZauKY|double descent shape|600]]
+![[🎨Excalidraw/double descent/bias-variance.md#^frame=kN2aDJNOKtWIG_hcZauKY|modern bias variance]]
 
 
 
