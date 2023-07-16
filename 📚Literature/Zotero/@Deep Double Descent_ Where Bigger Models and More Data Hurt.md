@@ -9,9 +9,7 @@ status:
 ---
 
 
-
-## Epoch-Wise Double Descent 
-![](https://i.imgur.com/XEjBpMv.png)
+![](https://i.imgur.com/7xuPKgL.png)
 
 ---
 
