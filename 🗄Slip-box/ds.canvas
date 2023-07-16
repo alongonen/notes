@@ -1,10 +1,12 @@
 {
 	"nodes":[
 		{"type":"group","id":"8c71ee0d0e9f8794","x":-3200,"y":-320,"width":1820,"height":1140,"label":"More Data Hurts?"},
-		{"id":"ce08583b837d385d","x":-2381,"y":922,"width":250,"height":60,"type":"text","text":"![[🎨Excalidraw/double descent/double-descent one dim.md#^frame=QIR4lDdNTmokUQTkvPuUh|model for 1-dim random features]]"},
+		{"type":"group","id":"eb5508190ac52270","x":-5280,"y":-200,"width":1680,"height":620,"label":"Bias-Variance: Traditional vs. Modern ML"},
+		{"type":"text","text":"## Linear Regression\n\n$$\nX = \\begin{pmatrix} | ~~~~~~ ~~~~~~ | \\\\ x_1 ~\\cdots ~ x_n \\\\ | ~~~~~~~~~~~~ | \\end{pmatrix} \\in \\mathbb{R}^{d \\times n}\n$$\n$$\n\\begin{align*}\n&\\min f(w) = \\frac{1}{2}\\|w^\\top X - Y\\|^2 \\Leftrightarrow \\\\\n&\\min \\frac{1}{2}w^\\top Aw-b^\\top w\n\\end{align*}\n$$\nwhere $b = Xy,~A=XX^\\top$.\n\n### Opt\n$$\nw^\\star = A^{\\dagger} b\n$$\n","id":"c55af9fb4f22b11e","x":-3160,"y":-280,"width":840,"height":480},
 		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-2200,"y":-160,"width":800,"height":960},
-		{"type":"text","text":"## Linear Regression\n\n$$\nX = \\begin{pmatrix} | ~~~~~~ ~~~~~~ | \\\\ x_1 ~\\cdots ~ x_n \\\\ | ~~~~~~~~~~~~ | \\end{pmatrix} \\in \\mathbb{R}^{d \\times n}\n$$\n$$\n\\begin{align*}\n&\\min f(w) = \\frac{1}{2}\\|w^\\top X - Y\\|^2 \\Leftrightarrow \\\\\n&\\min \\frac{1}{2}w^\\top Aw-b^\\top w\n\\end{align*}\n$$\nwhere $b = Xy, A=XX^\\top$.\n\n### Opt\n$$\nw^\\star = A^{\\dagger} b\n$$\n","id":"c55af9fb4f22b11e","x":-3160,"y":-280,"width":840,"height":480},
-		{"type":"text","text":"![[🎨Excalidraw/double descent/double-descent one dim.md#^frame=vYmXvKUhjyRJ2E5bzDa29|data for one-dim random features]]","id":"7654669bc000d34f","x":-2740,"y":1120,"width":250,"height":146}
+		{"type":"text","text":"![[🎨Excalidraw/double descent/double-descent one dim.md#^frame=vYmXvKUhjyRJ2E5bzDa29|data for one-dim random features]]","id":"7654669bc000d34f","x":-4460,"y":-1280,"width":720,"height":516},
+		{"type":"text","text":"![[🎨Excalidraw/double descent/bias-variance.md#^frame=kN2aDJNOKtWIG_hcZauKY|model bias variance|700]]\n","id":"2e20e8ceaaebaa2f","x":-4320,"y":-160,"width":640,"height":548},
+		{"type":"text","text":"![[🎨Excalidraw/double descent/bias-variance.md#^frame=_kmM0rxJWw2LI-vGCRbsq|traditional bias-variance|500]]\n","id":"44dd4e026134fb24","x":-5200,"y":-167,"width":800,"height":555}
 	],
 	"edges":[]
 }
