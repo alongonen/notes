@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"id":"8c71ee0d0e9f8794","x":-3200,"y":-320,"width":1820,"height":1140,"type":"group","label":"More Data Hurts?"},
-		{"type":"text","text":"```python\nimport numpy as np  \nimport seaborn as sns  \nimport matplotlib.pyplot as plt\n\nmin_sv = []\nmax_sv = []\nd = 1000\nsteps = 500\nfor i in range(0, 2*d+1, steps):  \n\tx = np.random.randn(d, max(1, i))  \n\t_, s, _ = np.linalg.svd(x)  \n\tmax_sv.append(s[0])  \n\tmin_sv.append(s[-1])  \nplt.plot(list(range(0, 2*d+1, steps)), min_sv, label='min singular value')  \nplt.plot(list(range(0, 2*d+1, steps)), max_sv, label='max singular value')  \nplt.legend()  \nplt.show()\nplt.close()\n```\n","id":"83bf996d9a7982b3","x":-2200,"y":-160,"width":800,"height":960},
-		{"type":"text","text":"## Linear Regression\n\n$$\nX = \\begin{pmatrix} | ~~~~~~ ~~~~~~ | \\\\ x_1 ~\\cdots ~ x_n \\\\ | ~~~~~~~~~~~~ | \\end{pmatrix} \\in \\mathbb{R}^{d \\times n}\n$$\n$$\n\\begin{align*}\n&\\min f(w) = \\frac{1}{2}\\|w^\\top X - Y\\|^2 \\Leftrightarrow \\\\\n&\\min \\frac{1}{2}w^\\top Aw-b^\\top w\n\\end{align*}\n$$\nwhere $b = Xy, A=XX^\\top$.\n\n### Opt\n$$\nw^\\star = A^{\\dagger} b\n$$\n","id":"c55af9fb4f22b11e","x":-3160,"y":-280,"width":840,"height":400},
-		{"id":"cbb10ffc53f0f4b9","x":-3160,"y":260,"width":250,"height":60,"type":"text","text":""}
+		{"type":"group","id":"8c71ee0d0e9f8794","x":-3200,"y":-320,"width":1820,"height":1140,"label":"More Data Hurts?"},
+		{"id":"ce08583b837d385d","x":-2381,"y":922,"width":250,"height":60,"type":"text","text":"![[🎨Excalidraw/double descent/double-descent one dim.md#^frame=QIR4lDdNTmokUQTkvPuUh|model for 1-dim random features]]"},
+		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-2200,"y":-160,"width":800,"height":960},
+		{"type":"text","text":"## Linear Regression\n\n$$\nX = \\begin{pmatrix} | ~~~~~~ ~~~~~~ | \\\\ x_1 ~\\cdots ~ x_n \\\\ | ~~~~~~~~~~~~ | \\end{pmatrix} \\in \\mathbb{R}^{d \\times n}\n$$\n$$\n\\begin{align*}\n&\\min f(w) = \\frac{1}{2}\\|w^\\top X - Y\\|^2 \\Leftrightarrow \\\\\n&\\min \\frac{1}{2}w^\\top Aw-b^\\top w\n\\end{align*}\n$$\nwhere $b = Xy, A=XX^\\top$.\n\n### Opt\n$$\nw^\\star = A^{\\dagger} b\n$$\n","id":"c55af9fb4f22b11e","x":-3160,"y":-280,"width":840,"height":480},
+		{"type":"text","text":"![[🎨Excalidraw/double descent/double-descent one dim.md#^frame=vYmXvKUhjyRJ2E5bzDa29|data for one-dim random features]]","id":"7654669bc000d34f","x":-2740,"y":1120,"width":250,"height":146}
 	],
 	"edges":[]
 }
