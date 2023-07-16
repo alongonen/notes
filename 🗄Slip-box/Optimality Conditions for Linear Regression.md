@@ -24,7 +24,7 @@ $$
 - The rank of $X^\top$ (typically) increases with the rank.
 - Underparameterization: $\mathrm{span}(X^\top)$ is not rich enough.
 - Interpolation point occurs when $y$ "enters" the span.
-- Overparameterization: $y$ 
+- Overparameterization: $X^\top w =y$ has many solutions. 
 
 
 | Regime            | Existence | Uniqueness               |
@@ -33,6 +33,8 @@ $$
 | Critically param. | Yes    | Yes|
 | Overparam.        |  Yes| No      |
 
+## GD Converges to Min-Norm Solution
+- GD always converges to $w^\star$, which has minimal norm among existi
 
 
 ## Regimes of Parameterization - Detailed
