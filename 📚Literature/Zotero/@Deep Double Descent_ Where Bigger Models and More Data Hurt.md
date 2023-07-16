@@ -10,12 +10,13 @@ status:
 
 
 
-## Epoch Double Descent Double
+## Epoch-Wise Double Descent 
 ![](https://i.imgur.com/XEjBpMv.png)
 
 ---
-## fds
 
-dsdsfds
+
+
+![](https://i.imgur.com/0ZEwse8.png)
 
 
