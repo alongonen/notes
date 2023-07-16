@@ -1,0 +1,6 @@
+{
+	"nodes":[
+		{"id":"83bf996d9a7982b3","x":-340,"y":-220,"width":560,"height":520,"type":"text","text":"```python\nimport numpy as np  \nimport seaborn as sns  \nimport matplotlib.pyplot as plt\n\nmin_sv = []\nmax_sv = []\nd = 1000\nsteps = 500\nfor i in range(0, 2*d+1, steps):  \n\tx = np.random.randn(d, max(1, i))  \n\t_, s, _ = np.linalg.svd(x)  \n\tmax_sv.append(s[0])  \n\tmin_sv.append(s[-1])  \nplt.plot(list(range(0, 2*d+1, steps)), min_sv, label='min singular value')  \nplt.plot(list(range(0, 2*d+1, steps)), max_sv, label='max singular value')  \nplt.legend()  \nplt.show()\nplt.close()\n```\n"}
+	],
+	"edges":[]
+}

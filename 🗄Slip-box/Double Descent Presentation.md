@@ -40,17 +40,12 @@ for i in range(0, 2*d+1, steps):
 	_, s, _ = np.linalg.svd(x)  
 	max_sv.append(s[0])  
 	min_sv.append(s[-1])  
-
- ```
-
-
-## Min
-
-```python
 plt.plot(list(range(0, 2*d+1, steps)), min_sv, label='min singular value')  
 plt.plot(list(range(0, 2*d+1, steps)), max_sv, label='max singular value')  
 plt.legend()  
 plt.show()
 plt.close()
+ ```
 
-```
+---
+
