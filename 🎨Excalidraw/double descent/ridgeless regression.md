@@ -14,11 +14,11 @@ questions
 - proof outline for min sv
  ^lx89Il1v
 
-[[Optimality Conditions for Linear Regression#Linear Regression]] ^FVrdt12I
+[[Linear Regression Paramaterization Regimes#Linear Regression]] ^FVrdt12I
 
-[[Optimality Conditions for Linear Regression#Regimes of Parameterization]] ^VOBkG5Tl
+[[Linear Regression Paramaterization Regimes#Regimes of Parameterization]] ^VOBkG5Tl
 
-[[Optimality Conditions for Linear Regression#Test Loss Increases Near Interpolation Point]] ^S4HrZzql
+[[Linear Regression Paramaterization Regimes#Test Loss Increases Near Interpolation Point]] ^S4HrZzql
 
 %%
 # Drawing

@@ -3,7 +3,7 @@
 		{"type":"group","id":"760eb940ceb3b4d5","x":-4680,"y":1320,"width":2051,"height":1360,"label":"Linearly Fitting Quadratic Functions using Random Features "},
 		{"type":"group","id":"8c71ee0d0e9f8794","x":-3440,"y":-120,"width":1820,"height":1200,"label":"More Data Hurts?"},
 		{"type":"group","id":"eb5508190ac52270","x":-7000,"y":-120,"width":2149,"height":940,"label":"Bias-Variance: Traditional vs. Modern ML"},
-		{"id":"9ebabd316b7af19e","x":-3420,"y":-80,"width":840,"height":360,"type":"file","file":"🗄Slip-box/Optimality Conditions for Linear Regression.md"},
+		{"id":"9ebabd316b7af19e","x":-3420,"y":-80,"width":840,"height":360,"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md"},
 		{"type":"text","text":"Slide:\n- eb5508190ac52270\n- 8c71ee0d0e9f8794\n","id":"dac708b9b9f35120","x":-200,"y":-200,"width":200,"height":200},
 		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-2480,"y":-80,"width":800,"height":1020},
 		{"type":"text","text":"Deep Double Descent","id":"8cb9c689db333fb7","x":-2730,"y":1328,"width":1300,"height":380},
