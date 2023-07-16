@@ -15,8 +15,10 @@ where $b = Xy,~A=XX^\top$.
 $$
 w^\star = A^{\dagger} b = X^\dagger y
 $$
-
 ## Regimes of Parameterization
+We interpl
+
+## Regimes of Parameterization - Detailed
 
 $$
 X = \sum_{i=1}^r \sigma_i u_i v_i^\top \,\,\,\,\,,\,\,\,\,\,\, y=\sum_{i=1}^n \beta_i v_i
@@ -29,13 +31,15 @@ Equivalent solutions:
 $$
 W^\star = \left \{w^\star + \sum_{i \in [r] \setminus [I]} \alpha_i u_i :\,\,(\forall i) ~~ \alpha_i \in \mathbb{R} \right\}
 $$
+Solution exists iff $X^\top w^\star = y$.
+If the solution exists, it's unique iff $W \star = \{w^\star\}$.
 
 
 
-
-| Regime            | Interpolation | Deg. of Freedom                | $I$ vs. $[r]$ |
+| Regime            | Existence | Uniqueness               | $I$ vs. $[r]$ |
 | ----------------- | ------------------------ | ----------- | -----|
-| Underparam.       | $Y \notin X^\top W^\star$ | - |$I \not \subseteq [r]$       |
-| Critically param. | $Y = X^\top W^\star$      | $W^\star = \{w^\star\}$ | $I=[r]$       |
-| Overparam.        |  $Y = X^\top W^\star$|  $\{w^\star\} \subsetneq W^\star$      |    $I \subsetneq [r]$         |
+| Underparam.       | No | - |$I \not \subseteq [r]$       |
+| Critically param. | Yes    | Yes| $I=[r]$       |
+| Overparam.        |  Yes| No      |    $I \subsetneq [r]$         |
 
+!
