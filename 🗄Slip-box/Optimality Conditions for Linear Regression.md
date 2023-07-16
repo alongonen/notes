@@ -16,7 +16,7 @@ $$
 w^\star = A^{\dagger} b = X^\dagger y
 $$
 
-## Interpolation conditions
+## Regimes of Parameterization
 
 $$
 X = \sum_{i=1}^r \sigma_i u_i v_i^\top \,\,\,\,\,,\,\,\,\,\,\, y=\sum_{i=1}^n \beta_i v_i
@@ -37,19 +37,5 @@ $$
 | ----------------- | ------------------------ | ----------- | -----|
 | Underparam.       | $Y \notin X^\top W^\star$ | - |$I \not \subseteq [r]$       |
 | Critically param. | $Y = X^\top W^\star$      | $W^\star = \{w^\star\}$ | $I=[r]$       |
-| Overparam.        |  $Y = X^\top W^\star$|  $\{w^\star\} \subsetneq W^\star \suspetneq $                      |    $I \subsetneq [r]$         |
+| Overparam.        |  $Y = X^\top W^\star$|  $\{w^\star\} \subsetneq W^\star$      |    $I \subsetneq [r]$         |
 
-
-
-
-### Recovery conditions
-$X = \sum_{i=1}^r \sigma_i u_i v_i^\top\,\,\,,\,A=\sum_{i=1}^r \underbrace{\lambda_i}_{\sigma_i^2} u_i u_i^\top, \, y=\sum_{i=1}^k \beta_i v_i$     
-$b = Xy = \sum_{i=1}^{\min \{k,r\}} \sum \beta_i \sigma_i u_i$.
-
-$$
-A ^\dagger b=\sum_{i=1}^{\min \{k,r\}} \sigma_i^{-1} \beta_i u_i = X^\dagger y
-$$
-$$
-X^\top w^\star = \sum_{i=1}^{\min \{k,r\}} \beta_i v_i 
-$$
-That is, $X^\top w^\star$ is the projection of $y$ onto the span of $X^\top$. It is equal to $y$ if and only if $r \ge k$.
