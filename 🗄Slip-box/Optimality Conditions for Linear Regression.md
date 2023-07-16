@@ -21,21 +21,23 @@ $$
 $$
 X = \sum_{i=1}^r \sigma_i u_i v_i^\top \,\,\,\,\,,\,\,\,\,\,\, y=\sum_{i=1}^n \beta_i v_i
 $$
-$I = \{i \in [N]:\,\beta_i >0 \}$
+$$I = \{i \in [N]:\,\beta_i >0 \}$$
 $$
 w^\star = A ^\dagger b= \sum_{i \in I \cap [r]} \sigma_i^{-1} \beta_i u_i \Rightarrow X^\top w^\star = \sum_{i=1}^r \beta_i v_i = \Pi_{X^\top}(y)
 $$
+Equivalent solutions
 $$
-W_r = \left \{\sum_{J} \sigma_i^{-1} \beta_i u_i \right: ~~ i \in I \cap [r]\}
+W^\star = \left \{w^\star + \sum_{i \in [r] \setminus [I]} \alpha_i u_i :\,\,(\forall i) ~~ \alpha_i \in \mathbb{R} \right\}
 $$
 
 
 
-| Regime            | Condition                | $I$ vs. $[r]$ |
-| ----------------- | ------------------------ | ----------- |
-| Underparam.       | $\Pi_{X^\top}(Y) \neq Y$ | $I \not \subseteq [r]$       |
-| Critically param. | $\Pi_{X^\top}(Y)$      | $I=[r]$       |
-| Overparam.        |                          |    $I \subsetneq [r]$         |
+
+| Regime            | Interpolation | Deg. of Freedom                | $I$ vs. $[r]$ |
+| ----------------- | ------------------------ | ----------- | -----|
+| Underparam.       | $Y \notin X^\top W^\star$ | - |$I \not \subseteq [r]$       |
+| Critically param. | $Y = X^\top W^\star$      | $W^\star = \{w^\star\}$ | $I=[r]$       |
+| Overparam.        |  $Y = X^\top W^\star$|  $\{w^\star\} \subsetneq W^\star \suspetneq $                      |    $I \subsetneq [r]$         |
 
 
 
