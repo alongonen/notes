@@ -223,7 +223,7 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 			"containerId": null,
 			"originalText": "Double Descent Regimes",
 			"lineHeight": 1.25,
-			"baseline": 65
+			"baseline": 66
 		},
 		{
 			"type": "image",
@@ -1775,7 +1775,7 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
@@ -1789,10 +1789,10 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2650.5578822420166,
-		"scrollY": 2783.034844505203,
+		"scrollX": 2482.5363164868086,
+		"scrollY": 2409.034112083328,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

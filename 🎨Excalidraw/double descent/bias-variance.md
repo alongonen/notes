@@ -1045,7 +1045,7 @@ overfit ^vlN1yCaL
 			"containerId": null,
 			"originalText": "complexity\n",
 			"lineHeight": 1.25,
-			"baseline": 32
+			"baseline": 33
 		},
 		{
 			"type": "text",
@@ -1401,7 +1401,7 @@ overfit ^vlN1yCaL
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#b2f2bb",
@@ -1415,10 +1415,10 @@ overfit ^vlN1yCaL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 6194.501211008734,
-		"scrollY": -1862.8284023708566,
+		"scrollX": 6213.646311920193,
+		"scrollY": -1854.2171556260646,
 		"zoom": {
-			"value": 0.15000000000000002
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

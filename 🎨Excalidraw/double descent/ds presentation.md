@@ -3491,7 +3491,7 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
@@ -3505,10 +3505,10 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 6551.036931718569,
-		"scrollY": 1256.8806507942531,
+		"scrollX": 7199.408782107632,
+		"scrollY": 3337.2011180191603,
 		"zoom": {
-			"value": 0.7000000000000001
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
