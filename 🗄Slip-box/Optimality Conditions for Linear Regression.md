@@ -3,19 +3,12 @@
 $$
 X = \begin{pmatrix} | ~~~~~~ ~~~~~~ | \\ x_1 ~\cdots ~ x_n \\ | ~~~~~~~~~~~~ | \end{pmatrix} \in \mathbb{R}^{d \times n}~~~~,~~~~Y = \begin{pmatrix} y_1 \\ \vdots \\ y_n \end{pmatrix} \in \mathbb{R}^n
 $$
-$$
-\begin{align*}
-&\min f(w) = \frac{1}{2}\|w^\top X - Y\|^2 \Leftrightarrow \\
-&\min \frac{1}{2}w^\top Aw-b^\top w
-\end{align*}
-$$
-where $b = Xy,~A=XX^\top$.
-
 
 ### Opt
 $$
-w^\star = A^{\dagger} b = X^\dagger y
+w^\star = X^\dagger y
 $$
+
 
 
 ## Regimes of Parameterization

@@ -14,11 +14,11 @@ questions
 - proof outline for min sv
  ^lx89Il1v
 
-[[Optimality Conditions for Linear RegressionΩ#Linear Regression]] ^FVrdt12I
+[[Optimality Conditions for Linear Regression#Linear Regression]] ^FVrdt12I
 
-[[Optimality Conditions for Linear RegressionΩ#Regimes of Parameterization]] ^VOBkG5Tl
+[[Optimality Conditions for Linear Regression#Regimes of Parameterization]] ^VOBkG5Tl
 
-[[Optimality Conditions for Linear RegressionΩ#Test Loss Increases Near Interpolation Point]] ^S4HrZzql
+[[Optimality Conditions for Linear Regression#Test Loss Increases Near Interpolation Point]] ^S4HrZzql
 
 %%
 # Drawing
@@ -67,8 +67,8 @@ questions
 		},
 		{
 			"type": "iframe",
-			"version": 846,
-			"versionNonce": 146732679,
+			"version": 847,
+			"versionNonce": 146732680,
 			"isDeleted": false,
 			"id": "FVrdt12I",
 			"fillStyle": "hachure",
@@ -89,14 +89,14 @@ questions
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689526779016,
-			"link": "[[Optimality Conditions for Linear Regression#Linear Regression]]",
+			"link": "[[Optimality Conditions for Linear RegressionΩ#Linear Regression]]",
 			"locked": false,
 			"whitelisted": true
 		},
 		{
 			"type": "iframe",
-			"version": 404,
-			"versionNonce": 1386317991,
+			"version": 405,
+			"versionNonce": 1386317992,
 			"isDeleted": false,
 			"id": "VOBkG5Tl",
 			"fillStyle": "hachure",
@@ -117,14 +117,14 @@ questions
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689526781350,
-			"link": "[[Optimality Conditions for Linear Regression#Regimes of Parameterization]]",
+			"link": "[[Optimality Conditions for Linear RegressionΩ#Regimes of Parameterization]]",
 			"locked": false,
 			"whitelisted": true
 		},
 		{
 			"type": "iframe",
-			"version": 1119,
-			"versionNonce": 1775910503,
+			"version": 2528,
+			"versionNonce": 1530552007,
 			"isDeleted": false,
 			"id": "S4HrZzql",
 			"fillStyle": "hachure",
@@ -133,19 +133,19 @@ questions
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -2907.2939239366056,
-			"y": -824.9463923669147,
+			"x": -2797.6220489366056,
+			"y": -530.9134062558035,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
-			"width": 1369.9609375000005,
-			"height": 1539.3046875000005,
+			"width": 1810.7226562500005,
+			"height": 843.1024305555557,
 			"seed": 80298,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689526928602,
-			"link": "[[Optimality Conditions for Linear Regression#Test Loss Increases Near Interpolation Point]]",
+			"updated": 1689527105954,
+			"link": "[[Optimality Conditions for Linear RegressionΩ#Test Loss Increases Near Interpolation Point]]",
 			"locked": false,
 			"whitelisted": true
 		}
@@ -165,10 +165,10 @@ questions
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3143.567144422717,
-		"scrollY": 1656.6730633738591,
+		"scrollX": 3285.233811089384,
+		"scrollY": 2279.9126467071924,
 		"zoom": {
-			"value": 0.30000000000000004
+			"value": 0.2
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
