@@ -1,5 +1,8 @@
 ## Linear Regression
-
+$$
+\min_w \|X^\top w - Y\|_2 ^2
+$$
+where
 $$
 X = \begin{pmatrix} | ~~~~~~ ~~~~~~ | \\ x_1 ~\cdots ~ x_n \\ | ~~~~~~~~~~~~ | \end{pmatrix} \in \mathbb{R}^{d \times n}~~~~,~~~~Y = \begin{pmatrix} y_1 \\ \vdots \\ y_n \end{pmatrix} \in \mathbb{R}^n
 $$
