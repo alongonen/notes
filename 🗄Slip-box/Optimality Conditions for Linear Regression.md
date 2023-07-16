@@ -18,15 +18,26 @@ $$
 
 ## Interpolation conditions
 
-| Regime             | Condition          |
-| ------------------ | ------------------ |
-| Underparam. | $y \notin span(X^\dagger) \Leftrightarrow w^\top X \neq Y$ |
-| Critically param.                   |       |            |
+$$
+X = \sum_{i=1}^r \sigma_i u_i v_i^\top \,\,\,\,\,,\,\,\,\,\,\, y=\sum_{i=1}^k \beta_i v_i
+$$
+$$
+w^\star = A ^\dagger b= \sum_{i=1}^{\min \{k,r\}} \sigma_i^{-1} \beta_i u_i \Rightarrow X^\top w^\star = \sum_{i=1}^{\min \{k,r\}} \beta_i v_i = \Pi_{X^\top}(y)
+$$
+
+
+
+| Regime            | Condition                | $r$ vs. $k$ |
+| ----------------- | ------------------------ | ----------- |
+| Underparam.       | $\Pi_{X^\top}(Y) \neq Y$ | $r<k$       |
+| Critically param. | $\Pi_{X^\top}(Y)=Y$      | $r=k$       |
+| Overparam.        |                          |    $r > k$         |
+
 
 
 
 ### Recovery conditions
-$X = \sum_{i=1}^r \sigma_i u_i v_i^\top\,\,\,,\,A=\sum_{i=1}^r \underbrace{\lambda_i}_{\sigma_i^2} u_i u_i^\top, \, y=\sum_{i=1}^k \beta_i v_i$     ($k$ might be smaller, equal or larger than $r$)
+$X = \sum_{i=1}^r \sigma_i u_i v_i^\top\,\,\,,\,A=\sum_{i=1}^r \underbrace{\lambda_i}_{\sigma_i^2} u_i u_i^\top, \, y=\sum_{i=1}^k \beta_i v_i$     
 $b = Xy = \sum_{i=1}^{\min \{k,r\}} \sum \beta_i \sigma_i u_i$.
 
 $$
