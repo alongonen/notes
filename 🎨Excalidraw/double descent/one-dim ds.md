@@ -44,7 +44,7 @@ b676839ec8421dc9954be4716dd7c93b88ee38ba: $$w_2$$
 52ea75829dc7acba7e5bd849388ba64d384864a7: $$\phi_i(x) = |x - t_i| $$
 f2283666a4a491cb2866dd6bb32ba179930d1139: $$K = 1$$
 aa7ca3cd758bb6fe0bd96f8ec015587ad14f1eb3: $$K = 4$$
-a1e16ef3d692f1c40de12845d1aaa02b2924aebf: $$K = 1$$
+a1e16ef3d692f1c40de12845d1aaa02b2924aebf: $$K = 0$$
 f920be7a406ade2f70f1364c29fbe733285c338c: $$K = 4$$
 220314a3b594fd1f6568ff66f4f8583e2a01603b: [[Pasted Image 20230712193707_975.png]]
 3afd40e7d1c4b546934f3c7114e4afba8bc89de9: [[Pasted Image 20230712193839_993.png]]
@@ -157,8 +157,8 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		},
 		{
 			"type": "image",
-			"version": 1121,
-			"versionNonce": 2115016456,
+			"version": 1122,
+			"versionNonce": 165491252,
 			"isDeleted": false,
 			"id": "YfoRA4l5jsKLX53Ovy3Qy",
 			"fillStyle": "solid",
@@ -168,7 +168,7 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 			"opacity": 100,
 			"angle": 0,
 			"x": -811.8369874147311,
-			"y": -902.623230698978,
+			"y": -903.1736568353415,
 			"strokeColor": "transparent",
 			"backgroundColor": "transparent",
 			"width": 559.594525098471,
@@ -178,7 +178,7 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689490200808,
+			"updated": 1689503011945,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1772,6 +1772,63 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 			"originalText": "bad fit",
 			"lineHeight": 1.25,
 			"baseline": 28
+		},
+		{
+			"type": "frame",
+			"version": 125,
+			"versionNonce": 1880714124,
+			"isDeleted": false,
+			"id": "md0wbaRvypceAUCFvBzfx",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -2589.0519414868086,
+			"y": -1771.0927058333282,
+			"strokeColor": "#bbb",
+			"backgroundColor": "transparent",
+			"width": 1588.75,
+			"height": 1868.22265625,
+			"seed": 32295348,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1689502911138,
+			"link": null,
+			"locked": false,
+			"name": "Ramdopm Features 1d"
+		},
+		{
+			"type": "diamond",
+			"version": 2,
+			"versionNonce": 1384517260,
+			"isDeleted": false,
+			"id": "JFmDiTu9jAkrJ7fyg9yt9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -313.8175664868086,
+			"y": -1985.1161433333282,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.625,
+			"height": 0.60546875,
+			"seed": 743958196,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1689502751001,
+			"link": null,
+			"locked": false
 		}
 	],
 	"appState": {
@@ -1789,10 +1846,10 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2482.5363164868086,
-		"scrollY": 2409.034112083328,
+		"scrollX": 1343.7634337373984,
+		"scrollY": 947.253890217022,
 		"zoom": {
-			"value": 0.25
+			"value": 0.7313105368561134
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
