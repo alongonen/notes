@@ -16,7 +16,14 @@ $$
 w^\star = A^{\dagger} b = X^\dagger y
 $$
 
-## 
+## Interpolation conditions
+
+| Regime             | Condition          |
+| ------------------ | ------------------ |
+| Underparam. | $y \notin span(X^\dagger) \Leftrightarrow w^\top X \neq Y$ |
+| Critically param.                   |       |            |
+
+
 
 ### Recovery conditions
 $X = \sum_{i=1}^r \sigma_i u_i v_i^\top\,\,\,,\,A=\sum_{i=1}^r \underbrace{\lambda_i}_{\sigma_i^2} u_i u_i^\top, \, y=\sum_{i=1}^k \beta_i v_i$     ($k$ might be smaller, equal or larger than $r$)
