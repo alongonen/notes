@@ -8,7 +8,7 @@
 		{"type":"file","file":"🗄Slip-box/Numpy Broadcasting.canvas","id":"bbb775f90374c74e","x":-2240,"y":-420,"width":400,"height":400},
 		{"type":"text","text":"# Jupyter\n\n[[Jupyter Kernel]]\n[[Poetry with Jupyter]]","id":"11cce3be91694e50","x":-963,"y":-935,"width":250,"height":171},
 		{"type":"text","text":"# Conda tips and Tricks\n\n\n## install tmux via conda\n\n\n```shell\nconda install -c conda-forge tmux\n```\n\n\n## Conda Export and Import\n\n```python\nconda env export > environment.yml\n```\n\n```python\nconda env create -f environment.yml\n```\n\n\n","id":"b48e729299329a99","x":-1726,"y":-935,"width":596,"height":335},
-		{"id":"118b5bc8a79711cc","x":-2240,"y":279,"width":574,"height":401,"color":"5","type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716210815.png"}
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716210815.png","id":"118b5bc8a79711cc","x":-2240,"y":279,"width":574,"height":401,"color":"5"}
 	],
 	"edges":[
 		{"id":"139717eeb848256b","fromNode":"33ff3e6e6f343d4d","fromSide":"right","toNode":"97f894709eb93db6","toSide":"left"},

@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"type":"group","id":"760eb940ceb3b4d5","x":-4680,"y":1320,"width":2051,"height":1360,"label":"Linearly Fitting Quadratic Functions using Random Features "},
 		{"type":"group","id":"8c71ee0d0e9f8794","x":-3440,"y":-120,"width":1820,"height":1200,"label":"More Data Hurts?"},
-		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"9ebabd316b7af19e","x":-3420,"y":-80,"width":840,"height":360},
-		{"type":"text","text":"Slide:\n- eb5508190ac52270\n- 8c71ee0d0e9f8794\n","id":"dac708b9b9f35120","x":-200,"y":-200,"width":200,"height":200},
 		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-2480,"y":-80,"width":800,"height":1020},
-		{"type":"text","text":"Deep Double Descent","id":"8cb9c689db333fb7","x":-2730,"y":1328,"width":1300,"height":380},
 		{"type":"text","text":"\n\n- how noise affect this example?\n- drawings for K> 4","id":"8c5650dbd5701b74","x":-4560,"y":1528,"width":423,"height":147},
-		{"type":"text","text":"![[one-dim ds#^frame=vYmXvKUhjyRJ2E5bzDa29|data for one-dim random features]]","id":"7654669bc000d34f","x":-3882,"y":1369,"width":1219,"height":1262},
-		{"id":"32637e9529d7afbb","x":-4832,"y":844,"width":250,"height":256,"type":"text","text":"![[Linear Regression Paramaterization Regimes#Linear Regression]]"}
+		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"9ebabd316b7af19e","x":-3420,"y":-80,"width":840,"height":360},
+		{"type":"text","text":"![[Linear Regression Paramaterization Regimes#Linear Regression]]","id":"32637e9529d7afbb","x":-5060,"y":340,"width":552,"height":316},
+		{"type":"text","text":"![[Linear Regression Paramaterization Regimes#Regimes of Parameterization]]\n","id":"750297cacab637ab","x":-4300,"y":340,"width":580,"height":420},
+		{"type":"text","text":"Slide:\n- eb5508190ac52270\n- 8c71ee0d0e9f8794\n","id":"dac708b9b9f35120","x":-200,"y":-200,"width":200,"height":200},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212123.png","id":"8e38f64ee28dc350","x":-5220,"y":-1280,"width":923,"height":645,"color":"3"},
+		{"id":"56bd5f28d937d0f8","x":-3620,"y":-1280,"width":944,"height":645,"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212206.png"}
 	],
 	"edges":[]
 }

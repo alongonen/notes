@@ -19,7 +19,7 @@ $$
 $$
 y \in \mathrm{span}(X^\top)
 $$
-- The rank of $X^\top$ (typically) increases with the rank.
+- The rank of $X^\top$ (typically) increases with the number of features.
 - Underparameterization: $\mathrm{span}(X^\top)$ is not rich enough.
 - Interpolation point occurs when $y$ "enters" the span.
 - Overparameterization: $X^\top w =y$ has many solutions. 
