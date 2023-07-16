@@ -11,10 +11,12 @@ $$
 $$
 where $b = Xy,~A=XX^\top$.
 
+
 ### Opt
 $$
 w^\star = A^{\dagger} b = X^\dagger y
 $$
+
 
 ## Regimes of Parameterization
 - Interpolation occurs when $X^\top w^\star = y$, i.e., when 
