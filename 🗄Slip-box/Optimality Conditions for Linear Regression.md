@@ -25,7 +25,7 @@ $$I = \{i \in [N]:\,\beta_i >0 \}$$
 $$
 w^\star = A ^\dagger b= \sum_{i \in I \cap [r]} \sigma_i^{-1} \beta_i u_i \Rightarrow X^\top w^\star = \sum_{i=1}^r \beta_i v_i = \Pi_{X^\top}(y)
 $$
-Equivalent solutions
+Equivalent solutions:
 $$
 W^\star = \left \{w^\star + \sum_{i \in [r] \setminus [I]} \alpha_i u_i :\,\,(\forall i) ~~ \alpha_i \in \mathbb{R} \right\}
 $$
