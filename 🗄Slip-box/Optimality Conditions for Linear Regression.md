@@ -15,8 +15,25 @@ where $b = Xy,~A=XX^\top$.
 $$
 w^\star = A^{\dagger} b = X^\dagger y
 $$
+
 ## Regimes of Parameterization
-We interpl
+- Interpolation occurs when $X^\top w^\star = y$, i.e., when 
+$$
+y \in \mathrm{span}(X^\top)
+$$
+- The rank of $X^\top$ (typically) increases with the rank.
+- Underparameterization: $\mathrm{span}(X^\top)$ is not rich enough.
+- Interpolation point occurs when $y$ "enters" the span.
+- Overparameterization: $y$ 
+
+
+| Regime            | Existence | Uniqueness               |
+| ----------------- | ------------------------ | ----------- |
+| Underparam.       | No | - |$I \not \subseteq [r]$       |
+| Critically param. | Yes    | Yes|
+| Overparam.        |  Yes| No      |
+
+
 
 ## Regimes of Parameterization - Detailed
 
@@ -35,11 +52,3 @@ Solution exists iff $X^\top w^\star = y$.
 If the solution exists, it's unique iff $W \star = \{w^\star\}$.
 
 
-
-| Regime            | Existence | Uniqueness               | $I$ vs. $[r]$ |
-| ----------------- | ------------------------ | ----------- | -----|
-| Underparam.       | No | - |$I \not \subseteq [r]$       |
-| Critically param. | Yes    | Yes| $I=[r]$       |
-| Overparam.        |  Yes| No      |    $I \subsetneq [r]$         |
-
-!
