@@ -1401,7 +1401,7 @@ overfit ^vlN1yCaL
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "#b2f2bb",
@@ -1415,10 +1415,10 @@ overfit ^vlN1yCaL
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 6213.646311920193,
-		"scrollY": -1854.2171556260646,
+		"scrollX": 5576.5754163978045,
+		"scrollY": -3713.5082004021842,
 		"zoom": {
-			"value": 0.2
+			"value": 0.6700000000000002
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
