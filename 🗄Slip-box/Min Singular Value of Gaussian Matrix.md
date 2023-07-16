@@ -1,3 +1,11 @@
+![](https://i.imgur.com/ZOQmUrG.png)
+
+$$
+\sigma_{\min}(X) \rightarrow \begin{cases} 
+\sqrt{n} - \sqrt{d} & n > d  \\
+\sqrt{d} - \sqrt{n} & n < d 
+\end{cases}
+$$
 
 ```python
 import numpy as np  

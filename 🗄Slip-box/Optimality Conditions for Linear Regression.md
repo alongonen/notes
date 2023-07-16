@@ -33,8 +33,11 @@ $$
 | Critically param. | Yes    | Yes|
 | Overparam.        |  Yes| No      |
 
-## GD Converges to Min-Norm Solution
-- GD always converges to $w^\star$, which has minimal norm among existi
+## Test Loss Increases Near Interpolation Point
+- The norm of $w^\star$ scales with the inverse of the minimal singular value of $X^\dagger$.
+- The singular values of $X^\dagger$ are very small near the interpolation point. 
+
+![[Min Singular Value of Gaussian Matrix]]
 
 
 ## Regimes of Parameterization - Detailed
