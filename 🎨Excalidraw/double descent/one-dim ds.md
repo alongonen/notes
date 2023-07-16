@@ -52,6 +52,7 @@ b8b4a6cb84ca2a2a262cb4129bb7e333e130f86e: [[Pasted Image 20230712203018_956.png]
 fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]]
 3ad48e09ce45b24ef6cd73c8b8d3d1702423670f: [[Pasted Image 20230712204627_032.png]]
 893bba75b8596ee1246f652738cfdb99eb98c7f4: [[Pasted Image 20230712204806_135.png]]
+d002dcb1bfe8d4a907b9ea8c9667c4eb8941e4bf: [[Pasted Image 20230716140058_445.png]]
 
 %%
 # Drawing
@@ -1829,6 +1830,72 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 			"updated": 1689502751001,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "rgz4eMU5f9Y0vPsZiQsWU",
+			"type": "image",
+			"x": -967.7526772287085,
+			"y": 75.66639810943582,
+			"width": 903.2955106564868,
+			"height": 677.4716329923651,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1095954356,
+			"version": 70,
+			"versionNonce": 1200996620,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1689505275643,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "d002dcb1bfe8d4a907b9ea8c9667c4eb8941e4bf",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "vOvteW1qYHlofikd9sjKV",
+			"type": "image",
+			"x": -212.91688043153025,
+			"y": 366.82535733671295,
+			"width": 449.76511642237574,
+			"height": 449.76511642237574,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2053199116,
+			"version": 39,
+			"versionNonce": 1093850892,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1689505155978,
+			"link": null,
+			"locked": false,
+			"status": "error",
+			"fileId": "55860e556c7db8a5308ded94f9b596d44362a94d",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -1846,8 +1913,8 @@ fdff39a08c801674cf2add6b1190a22892dabdce: [[Pasted Image 20230712203338_002.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1343.7634337373984,
-		"scrollY": 947.253890217022,
+		"scrollX": 1409.3990257067835,
+		"scrollY": 148.68752125616788,
 		"zoom": {
 			"value": 0.7313105368561134
 		},
