@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"group","id":"f770b4c1fb2f2999","x":-7100,"y":-2780,"width":2160,"height":1556,"label":"Double Descent Curves"},
+		{"type":"group","id":"8c71ee0d0e9f8794","x":-3440,"y":-600,"width":1820,"height":1680,"label":"More Data Hurts?"},
+		{"type":"text","text":"\n\n- how noise affect this example?\n- drawings for K> 4","id":"8c5650dbd5701b74","x":-4560,"y":1528,"width":840,"height":512},
+		{"type":"text","text":"Slide:\n- 8e38f64ee28dc350\n- 56bd5f28d937d0f8\n- 750297cacab637ab\n","id":"60e6f5208401a09b","x":-200,"y":-200,"width":200,"height":200},
+		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-2480,"y":-460,"width":800,"height":1400},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230717110953.png","id":"e04a95224e1ecdc1","x":-6560,"y":-2760,"width":1220,"height":645},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212123.png","id":"8e38f64ee28dc350","x":-7080,"y":-1920,"width":967,"height":676,"color":"3"},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212206.png","id":"56bd5f28d937d0f8","x":-5950,"y":-1920,"width":989,"height":676},
+		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"9ebabd316b7af19e","x":-3400,"y":-480,"width":840,"height":380},
+		{"type":"text","text":"![[Linear Regression Paramaterization Regimes#Regimes of Parameterization]]\n","id":"750297cacab637ab","x":-3400,"y":-100,"width":580,"height":420}
+	],
+	"edges":[]
+}
