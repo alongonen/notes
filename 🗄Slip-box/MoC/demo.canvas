@@ -1,9 +1,10 @@
 {
 	"nodes":[
-		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"059f5e53a0f460fb","x":0,"y":0,"width":400,"height":400},
-		{"id":"b91adb5844e413f7","x":-80,"y":-720,"width":640,"height":520,"type":"file","file":"🎨Excalidraw/Compressors.excalidraw.md"},
-		{"type":"file","file":"🗄Slip-box/One-Dim Double Descent.md","id":"bc699f866c7148c5","x":-720,"y":0,"width":400,"height":400},
-		{"type":"file","file":"🗄Slip-box/MoC/§Algebra.md","id":"da478173e9e571f8","x":-840,"y":-680,"width":560,"height":160}
+		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"059f5e53a0f460fb","x":-1040,"y":160,"width":600,"height":420},
+		{"type":"file","file":"🎨Excalidraw/double descent/bias-variance.md","id":"e5fb8c94632f1e60","x":-1080,"y":-840,"width":715,"height":880},
+		{"id":"668e1db7bcdbc267","x":240,"y":-840,"width":605,"height":312,"type":"text","text":"## Bib\n- [Blog Bach](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)\n- [First paper by Belkin](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)\n- [Grosse's notes](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/readings/L01_intro.pdf)\n- [Brady Neal's blog post](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) \n\t- [related paper](https://arxiv.org/pdf/1810.08591.pdf)\n- [open ai blog](https://openai.com/research/deep-double-descent)\n- [deep double descent](https://@@.org/deep.pdf)\n- [less wrong](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)\n- [mlu blog](https://mlu-explain.github.io/double-descent2/)\n- [Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle](https://arxiv.org/pdf/2303.14151.pdf)\n- \n\n\n\n\n\n"},
+		{"type":"file","file":"🎨Excalidraw/double descent/one-dim ds.md","id":"44464ed63407c82f","x":-280,"y":-840,"width":440,"height":460},
+		{"id":"94f391739c95b938","x":-254,"y":-135,"width":828,"height":715,"type":"file","file":"📚Literature/Zotero/@Deep Double Descent_ Where Bigger Models and More Data Hurt.md"}
 	],
 	"edges":[]
 }
