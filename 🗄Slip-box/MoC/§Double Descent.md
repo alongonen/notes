@@ -8,9 +8,10 @@
 - [deep double descent](https://mltheory.org/deep.pdf)
 - [less wrong](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)
 - [mlu blog](https://mlu-explain.github.io/double-descent2/)
+- [Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle](https://arxiv.org/pdf/2303.14151.pdf)
 - 
 
 
 
 
-x
+
