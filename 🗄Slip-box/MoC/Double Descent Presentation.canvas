@@ -8,8 +8,8 @@
 		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230717110953.png","id":"e04a95224e1ecdc1","x":-6560,"y":-2760,"width":1220,"height":645},
 		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212123.png","id":"8e38f64ee28dc350","x":-7080,"y":-1920,"width":967,"height":676,"color":"3"},
 		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212206.png","id":"56bd5f28d937d0f8","x":-5950,"y":-1920,"width":989,"height":676},
-		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"9ebabd316b7af19e","x":-3400,"y":-480,"width":840,"height":380},
-		{"type":"text","text":"![[Linear Regression Paramaterization Regimes#Regimes of Parameterization]]\n","id":"750297cacab637ab","x":-3400,"y":-100,"width":580,"height":420}
+		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"9ebabd316b7af19e","x":-3400,"y":-440,"width":840,"height":280},
+		{"type":"text","text":"![[Linear Regression Paramaterization Regimes#Regimes of Parameterization]]\n","id":"750297cacab637ab","x":-3400,"y":-80,"width":580,"height":400}
 	],
 	"edges":[]
 }
