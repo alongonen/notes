@@ -17,4 +17,4 @@ settings:: [[obs vs. decoy]]
 	- send the block as $x$ and $y$ as the label.
 
 ### Model
-#TBA 
+
