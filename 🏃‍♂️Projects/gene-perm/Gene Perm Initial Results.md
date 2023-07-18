@@ -103,25 +103,3 @@ Here we investigate the choice of the permuted pair. Each pair is associated wit
 - With number of anchor genes $\le 6$, the best accuracy is around 0.87.
 
 ![image-20230312141139283](https://p.ipic.vip/smcq6l.png)
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-​	
