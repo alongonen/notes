@@ -5,7 +5,7 @@ config: synthetic-ind-cols
 ---
 
 
-settings:: [[Observable Genes vs. Decoy Genes]] 
+settings:: [[obs vs. decoy]] 
 ## Data Generation
 
 - We create a $\{-1,1\}^{m \times d}$ matrix whose cells are drawn i.i.d. from $\mathrm{Ber}_{\pm 1} (1/2+\epsilon)$, where $\epsilon$ is a

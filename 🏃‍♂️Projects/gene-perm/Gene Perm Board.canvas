@@ -12,7 +12,7 @@
 		{"type":"text","text":"fixed embeddings vs pretrain","id":"b037d9a380eac3c6","x":-1033,"y":191,"width":213,"height":50},
 		{"type":"text","text":"which gene should we permute?","id":"a7967f731d805c79","x":-1168,"y":-15,"width":348,"height":66},
 		{"type":"text","text":"learn permutation vs. binary classification","id":"cb699d038fa26864","x":-1306,"y":134,"width":250,"height":60},
-		{"type":"text","text":"[[Gene-Perm - General Setting#^a031a2|Memorizaiton]]\n\n","id":"56ca4941fcaa2e1d","x":-888,"y":-99,"width":168,"height":50}
+		{"type":"text","text":"[[data#^a031a2|Memorizaiton]]\n\n","id":"56ca4941fcaa2e1d","x":-888,"y":-99,"width":168,"height":50}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}

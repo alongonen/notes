@@ -5,7 +5,7 @@ config: synthetic-dep-cols
 ---
 
 
-settings:: [[Observable Genes vs. Decoy Genes]] 
+settings:: [[obs vs. decoy]] 
 ## Data Generation
 
 - We create a $\{-1,1\}^{m \times d}$ matrix as follows:

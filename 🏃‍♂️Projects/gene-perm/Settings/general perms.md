@@ -2,7 +2,7 @@
 tags: setting
 ---
 
-![[Gene-Perm - General Setting]]
+![[data]]
 
 ## General Permutations
 
