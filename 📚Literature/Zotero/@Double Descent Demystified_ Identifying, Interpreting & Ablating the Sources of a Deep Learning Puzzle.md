@@ -9,7 +9,9 @@ status:
 notes: 
 
 
-- Unlike what we teached They show that 
+- Unlike what we taught in Intro to ML, they show that when fitting a polynomial to $y(x) = 2x + \cos(25x)$ also exhibits [[§Double Descent.canvas|Double Descent]].
+- 
+
 
 ---
 
