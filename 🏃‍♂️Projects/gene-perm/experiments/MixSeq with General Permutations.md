@@ -9,4 +9,7 @@ setting:: [[Contrastive Gene-Perm]]
 
 ## Results
 
-We first show how the accuracy varies with the fraction permutation (remember - the smaller is the frac)
+We first show how the accuracy varies with the fraction of fixed points in the  permutation (remember - the smaller is the fraction, the wilder is the permutation).
+
+
+
