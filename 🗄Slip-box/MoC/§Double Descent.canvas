@@ -3,16 +3,16 @@
 		{"type":"group","id":"b5d7d672eb06d151","x":-3713,"y":-1660,"width":2644,"height":1560,"label":"One-dim DS"},
 		{"type":"group","id":"f770b4c1fb2f2999","x":-3920,"y":-3520,"width":2400,"height":1641,"label":"Double Descent Curves"},
 		{"type":"group","id":"8c71ee0d0e9f8794","x":-6280,"y":-2480,"width":1830,"height":1120,"label":"More Data Hurts?"},
-		{"id":"e43738959e3bf3cd","x":-7100,"y":-3700,"width":1530,"height":440,"type":"group","label":"Bib"},
+		{"type":"group","id":"e43738959e3bf3cd","x":-7100,"y":-3700,"width":1530,"height":440,"label":"Bib"},
 		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212123.png","id":"8e38f64ee28dc350","x":-3920,"y":-2575,"width":987,"height":690,"color":"3"},
-		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212206.png","id":"56bd5f28d937d0f8","x":-2770,"y":-2575,"width":989,"height":676},
-		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230717110953.png","id":"e04a95224e1ecdc1","x":-3270,"y":-3360,"width":1220,"height":645},
 		{"type":"file","file":"🎨Excalidraw/double descent/one-dim ds.md","id":"5c90457a4398f6a9","x":-3693,"y":-1640,"width":1773,"height":1520},
 		{"type":"file","file":"🗄Slip-box/Linear Regression Paramaterization Regimes.md","id":"72cee584a68483a1","x":-6170,"y":-2340,"width":810,"height":580},
 		{"type":"file","file":"🗄Slip-box/Min Singular Value of Gaussian Matrix.md","id":"87bcce5ea73957b2","x":-5250,"y":-2360,"width":800,"height":820},
-		{"type":"text","text":"## Questions\n\n\n- how noise affect this example?\n- drawings for K> 4","id":"8c5650dbd5701b74","x":-1920,"y":-1640,"width":831,"height":275},
 		{"type":"text","text":"\n## Bib\n- [Blog Bach](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)\n- [First paper by Belkin](https://www.pnas.org/doi/pdf/10.1073/pnas.1903070116)\n- [Grosse's notes](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/readings/L01_intro.pdf)\n- [Brady Neal's blog post](https://www.bradyneal.com/bias-variance-tradeoff-textbooks-update) \n\t- [related paper](https://arxiv.org/pdf/1810.08591.pdf)\n- [open ai blog](https://openai.com/research/deep-double-descent)\n- [deep double descent](https://@@.org/deep.pdf)\n- [less wrong](https://www.lesswrong.com/posts/FRv7ryoqtvSuqBxuT/understanding-deep-double-descent)\n- [mlu blog](https://mlu-explain.github.io/double-descent2/)\n- [Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle](https://arxiv.org/pdf/2303.14151.pdf)\n- \n\n\n\n\n\n","id":"a2c70a792f47da82","x":-6440,"y":-3680,"width":850,"height":400},
-		{"type":"file","file":"📚Literature/Zotero/@Deep Double Descent_ Where Bigger Models and More Data Hurt.md","id":"170e9bae5a443c56","x":-7080,"y":-3680,"width":400,"height":400}
+		{"type":"file","file":"📚Literature/Zotero/@Deep Double Descent_ Where Bigger Models and More Data Hurt.md","id":"170e9bae5a443c56","x":-7080,"y":-3680,"width":400,"height":400},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230716212206.png","id":"56bd5f28d937d0f8","x":-2770,"y":-2575,"width":989,"height":676},
+		{"type":"file","file":"♽Meta/📎Attachments/Pasted image 20230717110953.png","id":"e04a95224e1ecdc1","x":-3270,"y":-3360,"width":1220,"height":645},
+		{"type":"text","text":"## Questions\n\n\n- how noise affect this example?\n- drawings for K> 4","id":"8c5650dbd5701b74","x":-1920,"y":-1640,"width":831,"height":275}
 	],
 	"edges":[]
 }

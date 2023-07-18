@@ -1,5 +1,5 @@
 ---
-title: Double Descent Demystified: Identifying, Interpreting & Ablating the Sources of a Deep Learning Puzzle
+title: Double Descent Demystified - Identifying, Interpreting and Ablating the Sources of a Deep Learning Puzzle
 authors: Rylan Schaeffer, Mikail Khona, Zachary Robertson, Akhilan Boopathy, Kateryna Pistunova, Jason W. Rocks, Ila Rani Fiete, Oluwasanmi Koyejo
 year: 2023
 tag: 
