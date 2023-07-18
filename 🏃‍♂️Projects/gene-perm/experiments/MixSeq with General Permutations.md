@@ -6,3 +6,7 @@ config: synthetic-dep-cols
 
 setting:: [[Contrastive Gene-Perm]]
 
+
+## Results
+
+We first show how the accuracy varies with the fraction permutation (remember - the smaller is the frac)
