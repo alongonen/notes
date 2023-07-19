@@ -1,18 +1,18 @@
 {
 	"nodes":[
-		{"type":"group","id":"03a58a24b0eb2616","x":-3889,"y":-1840,"width":2689,"height":1000,"color":"3","label":"Agenda"},
-		{"type":"group","id":"f0fa24ef57869097","x":-2240,"y":-160,"width":1800,"height":1320,"color":"5","label":"Considerations"},
-		{"type":"group","id":"0a99dda60c1eddd6","x":-3889,"y":-160,"width":640,"height":703,"label":"Initial Setting"},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-perm Questions.md","id":"e4c4dc164d920978","x":-3689,"y":-1759,"width":880,"height":519},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/gene-perm Kanban.md","id":"8c69e101dfecc579","x":-2720,"y":-1759,"width":1200,"height":760},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-Perm Initial Presentation.canvas","id":"4e87e0177ad4ee1c","x":-3868,"y":-106,"width":400,"height":234},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-1980,"y":-90,"width":400,"height":282},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene Perm Initial Results.md","id":"6aa22dc58c1156dd","x":-3868,"y":190,"width":400,"height":224},
-		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":-1980,"y":380,"width":940,"height":500},
-		{"type":"text","text":"fixed embeddings vs pretrain","id":"b037d9a380eac3c6","x":-1033,"y":191,"width":213,"height":50},
-		{"type":"text","text":"which gene should we permute?","id":"a7967f731d805c79","x":-1168,"y":-15,"width":348,"height":66},
-		{"type":"text","text":"learn permutation vs. binary classification","id":"cb699d038fa26864","x":-1306,"y":134,"width":250,"height":60},
-		{"type":"text","text":"[[data#^a031a2|Memorizaiton]]\n\n","id":"56ca4941fcaa2e1d","x":-888,"y":-99,"width":168,"height":50}
+		{"type":"group","id":"03a58a24b0eb2616","x":-3889,"y":-1840,"width":5094,"height":1000,"color":"3","label":"Agenda"},
+		{"type":"group","id":"3394e5fba6a4e3e7","x":-1760,"y":-187,"width":3690,"height":1027,"label":"Experiments"},
+		{"type":"group","id":"f0fa24ef57869097","x":-3889,"y":-480,"width":1800,"height":1320,"color":"5","label":"Considerations"},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Gene-perm Questions.md","id":"e4c4dc164d920978","x":-3689,"y":-1759,"width":1929,"height":760},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/How Conditions Are Relevant For Permutations?.md","id":"ed339a4eb68582c8","x":-3629,"y":-410,"width":400,"height":282},
+		{"type":"text","text":"which gene should we permute?","id":"a7967f731d805c79","x":-2817,"y":-335,"width":348,"height":66},
+		{"type":"text","text":"learn permutation vs. binary classification","id":"cb699d038fa26864","x":-2955,"y":-186,"width":250,"height":60},
+		{"type":"text","text":"fixed embeddings vs pretrain","id":"b037d9a380eac3c6","x":-2682,"y":-129,"width":213,"height":50},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/Ranking Genes for Permutations.md","id":"e1b34295c6fae8dd","x":-3629,"y":60,"width":940,"height":500},
+		{"type":"text","text":"[[data#^a031a2|Memorizaiton]]\n\n","id":"56ca4941fcaa2e1d","x":-2537,"y":-419,"width":168,"height":50},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/experiments/Gene-Perm Experiments Log.md","id":"a51c7d164b62667a","x":500,"y":-167,"width":1410,"height":666},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/experiments/Gene-Perm Experiments Summary.md","id":"401c0f5be2d0fcfa","x":-1525,"y":-167,"width":2025,"height":987},
+		{"type":"file","file":"🏃‍♂️Projects/gene-perm/gene-perm Kanban.md","id":"8c69e101dfecc579","x":-1525,"y":-1759,"width":2025,"height":760}
 	],
 	"edges":[
 		{"id":"c1453a1c1d06611e","fromNode":"e1b34295c6fae8dd","fromSide":"top","toNode":"ed339a4eb68582c8","toSide":"bottom"}
