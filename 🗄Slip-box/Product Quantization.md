@@ -41,10 +41,9 @@ Given a query $x$, we approximate its distance from the training point $x_i$ by 
 To save computation we can form a look-up table $A$ of size $8*256$ with all distances between x's subvectors and the relevant centroids.
 ---
 ## Theoretical Guarantees
-    - #.question Can we translate k-means approximation guarantees into PQ guarantees?
 
 
+> [!question] k-means -> PG
+> Can we translate k-means approximation guarantees into PQ guarantees?
 
-$$
-f(x)+\sum x_i 
-$$
+
