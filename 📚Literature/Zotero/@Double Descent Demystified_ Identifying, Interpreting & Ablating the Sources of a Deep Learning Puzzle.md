@@ -3,7 +3,7 @@ title: Double Descent Demystified - Identifying, Interpreting and Ablating the S
 authors: Rylan Schaeffer, Mikail Khona, Zachary Robertson, Akhilan Boopathy, Kateryna Pistunova, Jason W. Rocks, Ila Rani Fiete, Oluwasanmi Koyejo
 year: 2023
 tag: 
-status: 
+status: read
 ---
 
 notes: 
