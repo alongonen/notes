@@ -5,4 +5,4 @@
 $$
 \bar{d}(a,b) = \min _{P \in U(a,b)} \left \langle P,D \right \rangle
 $$
-- ====
+- 
