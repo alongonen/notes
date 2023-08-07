@@ -6,7 +6,7 @@ tag:
 status: 
 ---
 
-notes: 
+
 
 ## Main Result
 
@@ -19,43 +19,34 @@ notes:
 
 ## Context
 - Standard upper bound of (Online) Gradient Descent:  
-  $$\frac{\|w_0 - w^\star\|^2}{\eta} + \frac{\eta}{2} \sum \limits _{t=1}^T \|g_t\|^2
-	  $$ where $\eta$ is a fixed step size, $w_0$ is the initial iterate, $w^\star$ is an optimal solution, and $g_t$ is the gradient at time $t$. 
-
+$$
+\frac{\|w_0 - w^\star\|^2}{\eta} + \frac{\eta}{2} \sum \limits _{t=1}^T \|g_t\|^2 
+$$
+   where $\eta$ is a fixed step size, $w_0$ is the initial iterate, $w^\star$ is an optimal solution, and $g_t$ is the gradient at time $t$. 
 - Optimal tuning of the step size:
     $$
     \eta^\star = \frac{\|w_0-w^\star\|}{\sqrt{\sum \limits _{t=1}^T \|g_t\|^2}}
 	$$
 - This optimal tuning requires knowledge of the initial distance to the minimizer and also knowledge of (the magnitude) of future gradients.
-    
-
 - However, both are not known in general.
-    
-
-- The first requirement can be replaced by an upper bound on Lipschitzness of the loss function, when applicable.
-    
-
+- The first requirement can be replaced by an upper bound on Lipschitzness of the loss function, when applicable.    
 - Adaptive methods such as _AdaGrad_ resolves the the first requirement without assuming Lipschitzness.
-    
-
 - The second requirement can be replaced by an upper bound on the diameter (i.e. global bound on the model’s weights), when applicable.
-    
-
 - This work completely resolves the second requirement without making such assumption.
     
 
-- The step size has two components, namely, \gamma_t and d_t. The first
-    
-
+- The step size has two components, namely, $\gamma_t$ and $d_t$. The first component normalizes  the gradient magnitudes. It is defined as
+$$
+\gamma_{k+1} = \frac{1}{\sqrt{\sum\limits _{i=0}^{k}\|g_i\|^2}}
+$$
 - In Dual Averaging we maintain a weighted sum of the gradients. The iterate at time t is
-    
-
+$$
 \hat{d}_{k+1} = \frac{\gamma_{k+1} \|s_{n+1}\|^2 - \sum \limits _{i=0}^k \|g_i\|^2}{2 \|s_{k+1}\|}
-
+$$$$
 d_k = \max \{d_{k-1}, \hat{d_k}\}
-
+$$$$
 s_{k+1} = s_k + d_k g_k
-
+$$
 ## Aditioanal Relevant Papers
 
 - **DoG is SGD’s Best Friend: A Parameter-Free Dynamic Step Size Schedule:** worse by some logarithmic factors.
