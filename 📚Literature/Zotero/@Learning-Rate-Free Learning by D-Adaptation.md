@@ -2,10 +2,9 @@
 title: Learning-Rate-Free Learning by D-Adaptation
 authors: Aaron Defazio, Konstantin Mishchenko
 year: 2023
-tag: 
-status: 
+tags: []
+status:
 ---
-
 
 
 ## Main Result
