@@ -5,7 +5,12 @@ year: 2023
 tags: []
 status:
 ---
+## Annotations  
+(8/7/2023, 3:16:29 PM)
 
+> “automatically setting the learning rate which asymptotically achieves the optimal rate of convergence for minimizing convex Lipschitz functions” 
+
+> “first hyper-parameter free method for this class without additional multiplicative log factors” 
 
 ## Main Result
 
@@ -33,7 +38,7 @@ $$
 - The second requirement can be replaced by an upper bound on the diameter (i.e. global bound on the model’s weights), when applicable.
 - This work completely resolves the second requirement without making such assumption.
     
-
+## Description
 - The step size has two components, namely, $\gamma_t$ and $d_t$. The first component normalizes  the gradient magnitudes. It is defined as
 $$
 \gamma_{k+1} = \frac{1}{\sqrt{\sum\limits _{i=0}^{k}\|g_i\|^2}}
@@ -46,11 +51,10 @@ d_k = \max \{d_{k-1}, \hat{d_k}\}
 $$$$
 s_{k+1} = s_k + d_k g_k
 $$
-## Aditioanal Relevant Papers
+## Additional Relevant Papers
 
 - **DoG is SGD’s Best Friend: A Parameter-Free Dynamic Step Size Schedule:** worse by some logarithmic factors.
     
 
 - **Prodigy: An Expeditiously Adaptive Parameter-Free Learner:** follow-up paper that attempts to close the gap discussed above between GD and Dual Averaging.
 
----
