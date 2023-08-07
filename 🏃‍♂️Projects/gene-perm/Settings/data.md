@@ -1,5 +1,7 @@
 ---
-tags: setting
+tags:
+  - setting
+demo-property: s
 ---
 
 
