@@ -46,11 +46,9 @@ $$
 - In Dual Averaging we maintain a weighted sum of the gradients. The iterate at time t is
 $$
 \hat{d}_{k+1} = \frac{\gamma_{k+1} \|s_{n+1}\|^2 - \sum \limits _{i=0}^k \|g_i\|^2}{2 \|s_{k+1}\|}
-$$$$
-d_k = \max \{d_{k-1}, \hat{d_k}\}
-$$$$
-s_{k+1} = s_k + d_k g_k
 $$
+$$d_k = \max \{d_{k-1}, \hat{d_k}\}$$
+$$s_{k+1} = s_k + d_k g_k$$
 ## Additional Relevant Papers
 
 - **DoG is SGD’s Best Friend: A Parameter-Free Dynamic Step Size Schedule:** worse by some logarithmic factors.

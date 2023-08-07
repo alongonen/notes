@@ -1,7 +1,7 @@
 
  
 
-> [!question] Prior in VAE
+> [!question] Prior in VAE #someday 
 > VAE: In which cases should we enforce normal distribution?
 
 
