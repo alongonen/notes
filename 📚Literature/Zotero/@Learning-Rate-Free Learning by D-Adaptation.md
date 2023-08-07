@@ -18,18 +18,14 @@ notes:
 [Github](https://github.com/facebookresearch/dadaptation)
 
 ## Context
-
 - Standard upper bound of (Online) Gradient Descent:  
   $$\frac{\|w_0 - w^\star\|^2}{\eta} + \frac{\eta}{2} \sum \limits _{t=1}^T \|g_t\|^2
-  $$    
-	where \eta is a fixed step size, $w_0$ is the initial iterate, $w^\star$ is an optimal solution, and $g_t$ is the gradient at time $t$.
-    
+	  $$ where $\eta$ is a fixed step size, $w_0$ is the initial iterate, $w^\star$ is an optimal solution, and $g_t$ is the gradient at time $t$. 
 
 - Optimal tuning of the step size:
-    
+    $$
     \eta^\star = \frac{\|w_0-w^\star\|}{\sqrt{\sum \limits _{t=1}^T \|g_t\|^2}}
-    
-
+	$$
 - This optimal tuning requires knowledge of the initial distance to the minimizer and also knowledge of (the magnitude) of future gradients.
     
 
