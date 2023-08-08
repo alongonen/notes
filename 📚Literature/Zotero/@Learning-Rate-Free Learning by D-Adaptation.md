@@ -6,6 +6,14 @@ tags: []
 status:
 ---
 
+<h1>Annotations
+ (8/7/2023, 3:16:29 PM)</h1> 
+
+“automatically setting the learning rate which asymptotically achieves the optimal rate of convergence for minimizing convex Lipschitz functions” (Defazio and Mishchenko, 2023, p. 1) 
+
+“first hyper-parameter free method for this class without additional multiplicative log factors” (Defazio and Mishchenko, 2023, p. 1)
+
+---
 
 
 
